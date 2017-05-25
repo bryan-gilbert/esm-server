@@ -56,6 +56,7 @@ function serviceUtils($http, $modal) {
 				};
 				
 				$scope.toggleItem = function (item) {
+					console.log(item);
 					var i = index(item);
 					if (i === -1) {
 						$scope.current.push(item);

@@ -183,6 +183,58 @@ angular.module('core')
 							s.dirty = true;
 							setPermissionRole(s.permissionRoleIndex, permission, role, value);
 						};
+
+						s.toggleRoles = function (permission, role) {
+							var value;
+							if (permission) {
+								var val = s.permissionRoleIndex.permission[permission] ? true : undefined;
+								if (val === undefined) { //if permission doesn't exist then set as true
+									value = true;
+									s.clickRole(permission, role, value);
+								}
+								else {
+									value = s.permissionRoleIndex.permission[permission][role] ? false : true;  //if permission exist and if it was set to true -> set to false otherwise set to true
+									s.clickRole(permission, role, value);
+								}
+							}
+						};
+
+						s.togglePermission = function (permission, role) {
+							var value;
+							if (role) {
+								var val = s.permissionRoleIndex.role[role] ? true : undefined;
+								if (val === undefined) { //if role doesn't exist then set as true
+									value = true;
+									s.clickPermission(permission, role, value);
+								}
+								else {
+									value = s.permissionRoleIndex.role[role][permission] ? false : true;  //if role exist and if it was set to true -> set to false otherwise set to true
+									s.clickPermission(permission, role, value);
+								}
+							}
+						};
+
+						//function used to check for selected permissions for a role
+						//this function works with the checkboxes of Manage Permissions for Role
+						s.selectedPermission = function (permission, role) {
+							if (permission && s.permissionRoleIndex.permission.hasOwnProperty(permission)) {
+								return s.permissionRoleIndex.permission[permission][role];
+							}
+							else {
+								return;
+							}
+						};
+
+						//function used to check for selected roles for a permisson
+						//this function works with the checkboxes of Manage Roles for permission
+						s.selectedRole = function (permission,role) {
+							if (role && s.permissionRoleIndex.role.hasOwnProperty(role)) {
+								return s.permissionRoleIndex.role[role][permission];
+							}
+							else {
+								return;
+							}
+						};
 						
 						s.cancel = function () {
 							$modalInstance.dismiss('cancel');
@@ -481,6 +533,63 @@ angular.module('core')
 							s.dirty = true;
 							setUserRole(s.userRoleIndex, user.username, role, value);
 						};
+
+						s.toggleItemUser = function (user, role) {
+							var value;
+							if (user) {
+								var val = s.userRoleIndex.user[user.username] ? true : undefined;
+								if (val === undefined) { //if role doesn't exist then set as true
+									value = true;
+									s.clickRole(user, role, value);
+								}
+								else {
+									value = s.userRoleIndex.user[user.username][role] ? false : true;  //if role exist and if it was set to true -> set to false otherwise set to true
+									s.clickRole(user, role, value);
+								}
+							}
+						};
+
+						s.toggleItemRoles = function (user, role) {
+							var value;
+							if (role) {
+								var val = s.userRoleIndex.role[role] ? true : undefined;
+								if (val === undefined) { //if user doesn't exist then set as true
+									value = true;
+									s.clickUser(user, role, value);
+								}
+								else {
+									value = s.userRoleIndex.role[role][user.username] ? false : true;  //if user exist and if it was set to true -> set to false otherwise set to true
+									s.clickUser(user, role, value);
+								}
+							}
+						};
+
+						//function used to check for selected roles for a user
+						//this function works with the checkboxes of Manage Roles for User
+						s.roleSelect = function (user, role) {
+							if (user && s.userRoleIndex.user.hasOwnProperty(user.username)) {
+								return s.userRoleIndex.user[user.username][role];
+							}
+							else {
+								return;
+							}
+						};
+
+						//function used to check for selected users for a role
+						//this function works with the checkboxes of Manage Users for Role
+						s.userSelect = function (user,role) {
+							if (role && s.userRoleIndex.role.hasOwnProperty(role)) {
+								return s.userRoleIndex.role[role][user.username];
+							}
+							else {
+								return;
+							}
+						};
+
+						s.cancel = function () {
+							$modalInstance.dismiss('cancel');
+						};
+
 						s.cancel = function () {
 							$modalInstance.dismiss('cancel');
 						};
