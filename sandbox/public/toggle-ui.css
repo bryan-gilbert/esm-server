@@ -1,0 +1,56 @@
+body {
+    margin: 2rem;
+}
+
+.test-control ul {
+    margin: 0;
+    list-style-type: none;
+}
+
+.test-control ul li {
+    position: relative;
+    display: block;
+}
+
+.test-control ul li label {
+    display: block;
+    padding: 1rem;
+    padding-left: 3rem;
+    border-top: 1px solid #eee;
+}
+
+.test-control ul li > ul {
+    display: none;
+}
+
+.test-control ul li input[type="checkbox"] {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+}
+
+.test-control ul li input[type="checkbox"]:checked + ul {
+    display: block;
+}
+
+.test-control > ul {
+    padding: 0;
+}
+
+.test-control > ul > li {
+    margin-bottom: 2px;
+}
+
+.test-control > ul > li > ul {
+    padding: 0;
+}
+
+.test-control > ul > li > label {
+    background: #eee;
+}
+
+.test-control > ul > ul li label {
+    background: #fff;
+}
+
+/*# sourceMappingURL=toggle-ui-demo.css.map */

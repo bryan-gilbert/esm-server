@@ -1,0 +1,61 @@
+body {
+    margin: 2rem;
+}
+
+.test-control {
+    ul {
+        margin: 0;
+        list-style-type: none;
+
+        li {
+            position: relative;
+            display: block;
+
+            label {
+                display: block;
+                padding: 1rem;
+                padding-left: 3rem;
+                border-top: 1px solid #eee;
+            }
+
+            > ul {
+                display: none;
+            }
+
+            input[type="checkbox"] {
+                position: absolute;
+                top: 1rem;
+                left: 1rem;
+                &:checked {
+                    + ul {
+                        display: block;
+                    }
+                }
+            }
+        }
+    }
+
+    > ul {
+        padding: 0;
+
+        > li {
+            margin-bottom: 2px;
+
+            > ul {
+                padding: 0;
+            }
+
+            > label {
+                background: #eee;
+            }
+        }
+
+        > ul {
+            li {
+                label {
+                    background: #fff;
+                }
+            }
+        }
+    }
+}
