@@ -353,7 +353,10 @@ angular.module('documents')
 
 					// in the batch menu, we have some folder management and publish/unpublish of files.
 					// so user needs to be able to manage folders, or have some selected files they can pub/unpub
-					self.batchMenuEnabled = ($scope.project.userCan.manageFolders && _.size(self.checkedDirs) > 0) || _.size(self.publishSelected.publishableFiles) > 0 || _.size(self.publishSelected.unpublishableFiles) > 0;
+					self.batchMenuEnabled = (
+						$scope.project.userCan.manageFolders && _.size(self.checkedDirs) > 0)
+						|| _.size(self.publishSelected.publishableFiles) > 0
+						|| _.size(self.publishSelected.unpublishableFiles) > 0;
 				};
 
 				self.deleteDocument = function(documentID) {
