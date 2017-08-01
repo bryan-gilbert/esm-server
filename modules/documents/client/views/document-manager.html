@@ -2,8 +2,8 @@
 
 	<div class="fb-header">
 		<div class="fb-header-path">
-			<div class="fb-path" 
-				ng-class="{'root':node.model.name == 'ROOT'}" 
+			<div class="fb-path"
+				ng-class="{'root':node.model.name == 'ROOT'}"
 				ng-repeat="node in documentMgr.currentPath">
 				<span class="fb-path-arrow" ng-if="node.model.name != 'ROOT'">&rsaquo;</span>
 				<button class="btn icon-btn" title="{{ node.model.folderObj.displayName }}" ng-click="documentMgr.selectNode(node.model.id)">
@@ -53,13 +53,11 @@
 					<li>
 						<a title="Delete"
 						   ng-hide="documentMgr.deleteSelected.confirmItems.length === 0"
-						   x-confirm-dialog
-						   x-title-text="documentMgr.deleteSelected.titleText"
-						   x-ok-text="documentMgr.deleteSelected.okText"
-						   x-cancel-text="documentMgr.deleteSelected.cancelText"
-						   x-confirm-text="documentMgr.deleteSelected.confirmText"
-						   x-confirm-items="documentMgr.deleteSelected.confirmItems"
-						   x-on-ok="documentMgr.deleteSelected.ok"><span class="glyphicon glyphicon-trash"></span> Delete</a>
+						   x-confirm-delete
+               x-delete-callback="documentMgr.deleteFilesAndDirs"
+               x-folders="documentMgr.checkedDirs"
+               x-files="documentMgr.checkedFiles">
+              <span class="glyphicon glyphicon-trash"></span> Delete</a>
 					</li>
 					<li>
 						<a title="Publish"
@@ -137,7 +135,7 @@
 				<div class="scroll-container-inner">
 
 					<div class="empty-directory-msg" ng-if="documentMgr.currentDirs.length == 0 && documentMgr.currentFiles.length == 0">This folder is empty.</div>
-					
+
 					<ul>
 						<li class="fb-list-item" ng-class="{'selected': doc.selected}" ng-repeat="doc in documentMgr.currentDirs">
 							<span class="col checkbox-col" ng-if="authentication.user">
@@ -362,7 +360,7 @@
 			</div>
 
 		</div>
-		
+
 		<div class="fb-details-panel">
 			<!-- Load the File/Folder Details -->
 			<div class="spinner-container" ng-show="documentMgr.busy">
