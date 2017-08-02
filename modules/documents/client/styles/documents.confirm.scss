@@ -21,7 +21,11 @@
     flex-flow: row wrap;
     justify-content: flex-start;
   }
+  .disabled {
+    color: #ddd;
+  }
 }
+
 
 
 .confirm-list .avatar {
