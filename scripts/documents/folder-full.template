@@ -1,0 +1,46 @@
+  {
+    "_schemaName" : "Folder",
+    "__v" : 0,
+    "userCan" : {
+      "unPublish" : false,
+      "publish" : false,
+      "delete" : false,
+      "write" : false,
+      "read" : false
+    },
+    "addedBy" : null,
+    "keywords" : [],
+    "order" : 0,
+    "updatedBy" : null,
+    "dateUpdated" : null,
+    "dateAdded" : null,
+    "description" : "",
+    "read" : [
+      "public",
+      "assessment-admin",
+      "project-intake",
+      "assessment-lead",
+      "assessment-team",
+      "assistant-dm",
+      "project-epd",
+      "assistant-dmo",
+      "associate-dm",
+      "associate-dmo",
+      "compliance-lead",
+      "compliance-officer",
+      "project-system-admin"
+    ],
+    "write" : [
+      "assessment-admin",
+      "project-system-admin"
+    ],
+    "delete" : [
+      "assessment-admin",
+      "project-system-admin"
+    ],
+    "displayName" : "%displayName%",
+    "directoryID" : %DirectoryId%,
+    "parentID" : %ParentId%,
+    "isPublished" : true,
+    "project" : {"$oid" : "%projectId%"}
+  }

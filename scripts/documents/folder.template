@@ -1,0 +1,16 @@
+  {
+    "_schemaName" : "Folder",
+    "__v" : 0,
+    "addedBy" : null,
+    "keywords" : [],
+    "order" : 0,
+    "updatedBy" : null,
+    "dateUpdated" : null,
+    "dateAdded" : null,
+    "description" : "",
+    "displayName" : "%displayName%",
+    "directoryID" : %DirectoryId%,
+    "parentID" : %ParentId%,
+    "isPublished" : true,
+    "project" : {"$oid" : "%projectId%"}
+  }

@@ -1,0 +1,5055 @@
+
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e35"),
+	"displayName" : "Under Review",
+	"directoryID" : 2,
+	"parentID" : 1,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e36"),
+	"displayName" : "EAO Generated Documents",
+	"directoryID" : 3,
+	"parentID" : 2,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e37"),
+	"displayName" : "Prosperity Gold Project Time Limit Extension Order, dated October 21/05 and signed by Joan Hesketh (Executive Director, EAO)",
+	"directoryID" : 4,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e38"),
+	"displayName" : "Repeal and Replacement of Order 0213-07",
+	"directoryID" : 5,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e39"),
+	"displayName" : "Letter to the chiefs of the Tsilhqot'in Nation (dated April 18, 2007)",
+	"directoryID" : 6,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e3a"),
+	"displayName" : "Letter to the Chief Hank Adams and Councillors (Canoe Creek Band) dated April 18/07 from Jean-Claude Bouchard (CEAA) regarding Prosperity Project",
+	"directoryID" : 7,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e3b"),
+	"displayName" : "Letter to the Chief Dorothy Phillips and Councillors (Soda Creek Band) dated April 18/07 from Jean-Claude Bouchard (CEAA) regarding Prosperity Project",
+	"directoryID" : 8,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e3c"),
+	"displayName" : "Letter to the Chief Fred Robbins and Councillors (Esketemc Band) dated April 18/07 from Jean-Claude Bouchard (CEAA) regarding Prosperity Project",
+	"directoryID" : 9,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e3d"),
+	"displayName" : "Letter to the Chief Mike Archie and Councillors (Canim Lake Indian Band) dated April 18/07 from Jean-Claude Bouchard (CEAA) regarding Prosperity Project",
+	"directoryID" : 10,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e3e"),
+	"displayName" : "Letter dated Mar 11/09 from Garry Alexander (EAO) addressed to Brian Battison (Taseko) Application for the proposed Prosperity Project pursuant to the Environmental Assessment Act First Nation Consultation Assessment and Public Consultation Assessment",
+	"directoryID" : 82,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e3f"),
+	"displayName" : "Letter dated Mar 11/09 from Garry Alexander (EAO) addressed to Brian Battison (Taseko) accepting the application for an environmental assessment certificate",
+	"directoryID" : 83,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e40"),
+	"displayName" : "Letter dated April 16/09 from Garry Alexander (EAO) addressed to Robert Connely (Chair, Prosperity Review Panel)",
+	"directoryID" : 308,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e41"),
+	"displayName" : "Final meeting minutes from the April 2/09 working group meeting in Williams Lake for the proposed Prosperity Project",
+	"directoryID" : 343,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e42"),
+	"displayName" : "Letter dated June 16/09 from Garry Alexander (EAO) addressed to Brian Battison (Taseko) re First Nation Consultation report for the proposed Prosperity Project",
+	"directoryID" : 565,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e43"),
+	"displayName" : "Apr 29/09 final fisheries subcommittee meeting notes for the proposed Prosperity project",
+	"directoryID" : 569,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e44"),
+	"displayName" : "May13/09 final ML/ARD subcommittee meeting notes for the proposed Prosperity project",
+	"directoryID" : 570,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e45"),
+	"displayName" : "Apr 29/09 final terrestrial subcommittee meeting notes for the proposed Prosperity project",
+	"directoryID" : 571,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e46"),
+	"displayName" : "Apr 30/09 final water quality subcommittee meeting notes for the proposed Prosperity project",
+	"directoryID" : 572,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e47"),
+	"displayName" : "Letter dated July 8/09 from Garry Alexander (EAO) addressed to Brian Battison (Taseko) re the suspension of time limit for the review of the application for the proposed Prosperity project",
+	"directoryID" : 575,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e48"),
+	"displayName" : "Final meeting notes from the Fish and Fish Habitat meeting June 11/09",
+	"directoryID" : 577,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e49"),
+	"displayName" : "Final meeting notes from the Terrestrial Ecosystems Sub-Committee meeting June 10/09",
+	"directoryID" : 578,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e4a"),
+	"displayName" : "Final meeting notes from the Terrestrial Ecosystems Sub-Committee meeting June 15/09",
+	"directoryID" : 579,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e4b"),
+	"displayName" : "Terrestrial and Air Quality Sub-Committee meeting notes dated June 30/09 for the proposed Prosperity project",
+	"directoryID" : 583,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e4c"),
+	"displayName" : "Archaeology and Socio-economic Sub-Committee meeting notes dated July 2/09 for the proposed Prosperity project",
+	"directoryID" : 584,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e4d"),
+	"displayName" : "Water Quality and Hydrology Sub-Committee meeting notes dated July 2/09 for the proposed Prosperity project",
+	"directoryID" : 585,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e4e"),
+	"displayName" : "Meeting Notes dated July 9/09 from the Working Group Sub-Committees Alternatives Assessment and ML/ARD Meeting",
+	"directoryID" : 597,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e4f"),
+	"displayName" : "Meeting Notes dated July 8/09 from the Fisheries Sub-Committee",
+	"directoryID" : 598,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e50"),
+	"displayName" : "Letter dated October 2/09 from Graeme McLaren (EAO) to Brian Battison (Taseko Mines Ltd) regarding the time limit resuming for a review process",
+	"directoryID" : 605,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e51"),
+	"displayName" : "Letter of September 25, 2009 to Roger Packham (MOE) from Nathaniel Amann-Blake (EAO) regarding  September 23, 2009 letter to the Federal Review Panel",
+	"directoryID" : 612,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e52"),
+	"displayName" : "Letter dated November 5, 2009 to Brian Battison (Proponent) from Garry Alexander (EAO) regarding suspension of the proposed Prosperity Project",
+	"directoryID" : 621,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e53"),
+	"displayName" : "Letter dated November 16, 2009 to Brian Battison (Proponent) from Garry Alexander (EAO) regarding the proposed Prosperity Project",
+	"directoryID" : 626,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e54"),
+	"displayName" : "Meeting Notes dated October 23/09 from the Working Group - Groundwater and Hydrology Sub-Committee Meeting",
+	"directoryID" : 628,
+	"parentID" : 3,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e55"),
+	"displayName" : "Application and Supporting Studies",
+	"directoryID" : 72,
+	"parentID" : 2,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e56"),
+	"displayName" : "Application Volume 1 - Summary Report",
+	"directoryID" : 73,
+	"parentID" : 72,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e57"),
+	"displayName" : "Application Volume 2 - Project Planning",
+	"directoryID" : 74,
+	"parentID" : 72,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e58"),
+	"displayName" : "Application Volume 3 - Project Description",
+	"directoryID" : 75,
+	"parentID" : 72,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e59"),
+	"displayName" : "Application Volume 4 - Physical Environment",
+	"directoryID" : 76,
+	"parentID" : 72,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e5a"),
+	"displayName" : "Application Volume 5 - Biotic Environment",
+	"directoryID" : 77,
+	"parentID" : 72,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e5b"),
+	"displayName" : "Application Volume 6 - Socio-Economics",
+	"directoryID" : 78,
+	"parentID" : 72,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e5c"),
+	"displayName" : "Application Volume 7 - Archaeology",
+	"directoryID" : 79,
+	"parentID" : 72,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e5d"),
+	"displayName" : "Application Volume 8 - First Nations",
+	"directoryID" : 80,
+	"parentID" : 72,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e5e"),
+	"displayName" : "Application Volume 9 - Additional CEAA Requirements",
+	"directoryID" : 81,
+	"parentID" : 72,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e5f"),
+	"displayName" : "Pre-Application for a Mine Development Certificate. Originally posted 1995/06/30",
+	"directoryID" : 644,
+	"parentID" : 72,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e60"),
+	"displayName" : "Fish Lake Gold-Copper Project Consultation - Results from Open House Presentation - November 4, 1993 Originally posted 1995/06/30",
+	"directoryID" : 645,
+	"parentID" : 72,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e61"),
+	"displayName" : "Fish Lake Project - Assessment of Alternate Waste Rock Storage Sites - Preliminary Environmental Assessment. Originally posted 1995/06/30",
+	"directoryID" : 646,
+	"parentID" : 72,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e62"),
+	"displayName" : "Notices - News Releases",
+	"directoryID" : 84,
+	"parentID" : 2,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e63"),
+	"displayName" : "Public invited to comment on the Application for the proposed Prosperity Gold-Copper Project public comment period runs from March 26/09  to midnight May 25/09",
+	"directoryID" : 85,
+	"parentID" : 84,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e64"),
+	"displayName" : "Environmental Assessment of the Proposed Prosperity Gold-Copper Mine Project - Invitation to Comment",
+	"directoryID" : 622,
+	"parentID" : 84,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e65"),
+	"displayName" : "Public Comments/Submissions",
+	"directoryID" : 86,
+	"parentID" : 2,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e66"),
+	"displayName" : "Public comment dated Mar 26/09 from Carl B addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 87,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e67"),
+	"displayName" : "Public comment dated Mar 26/09 from Karen Roberts addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 88,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e68"),
+	"displayName" : "Public comment dated Mar 26/09 from Richard Kohlen addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 89,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e69"),
+	"displayName" : "Public comment dated Mar 27/09 from Val Telford addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 90,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e6a"),
+	"displayName" : "Public comment dated Mar 27/09 from Trent Kohlen addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 91,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e6b"),
+	"displayName" : "Public comment dated Mar 27/09 from Tony Derksen addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 92,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e6c"),
+	"displayName" : "Public comment dated Mar 27/09 from Kathy Genton addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 93,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e6d"),
+	"displayName" : "Public comment dated Mar 27/09 from Linda Fornwald addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 94,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e6e"),
+	"displayName" : "Public comment dated Mar 27/09 from Tom Myers addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 95,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e6f"),
+	"displayName" : "Public comment dated Mar 27/09 from Janet Williams addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 96,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e70"),
+	"displayName" : "Public comment dated Mar 27/09 from Tom Wittal addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 97,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e71"),
+	"displayName" : "Public comment dated Mar 27/09 from Vince Perugini addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 98,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e72"),
+	"displayName" : "Public comment dated Mar 27/09 from Bruce Charboneau addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 99,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e73"),
+	"displayName" : "Public comment dated Mar 27/09 from Bernice Hoffman addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 100,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e74"),
+	"displayName" : "Public comment dated Mar 27/09 from Pauline Huska addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 101,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e75"),
+	"displayName" : "Public comment dated Mar 27/09 from Jody Doering addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 102,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e76"),
+	"displayName" : "Public comment dated Mar 27/09 from Lee Thomson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 103,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e77"),
+	"displayName" : "Public comment dated Mar 27/09 from Jamie MacPherson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 104,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e78"),
+	"displayName" : "Public comment dated Mar 27/09 from Humphrey Power addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 105,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e79"),
+	"displayName" : "Public comment dated Mar 27/09 from Mike Rife addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 106,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e7a"),
+	"displayName" : "Public comment dated Mar 27/09 from Jamie Anderson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 107,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e7b"),
+	"displayName" : "Public comment dated Mar 27/09 from Luigi Mandarino addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 108,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e7c"),
+	"displayName" : "Public comment dated Mar 27/09 from Rob Wiffen addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 109,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e7d"),
+	"displayName" : "Public comment dated Mar 27/09 from Rick Weil addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 110,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e7e"),
+	"displayName" : "Public comment dated Mar 27/09 from Les Adtruson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 111,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e7f"),
+	"displayName" : "Public comment dated Mar 27/09 from Steve Goodliffe addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 112,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e80"),
+	"displayName" : "Public comment dated Mar 27/09 from Christina Redford addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 113,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e81"),
+	"displayName" : "Public comment dated Mar 27/09 from Colin Merrigan addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 114,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e82"),
+	"displayName" : "Public comment dated Mar 27/09 from Naje Gauthier addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 115,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e83"),
+	"displayName" : "Public comment dated Mar 27/09 from Christina Switzer addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 116,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e84"),
+	"displayName" : "Public comment dated Mar 27/09 from Mary Jane Engstrom addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 117,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e85"),
+	"displayName" : "Public comment dated Mar 27/09 from Sheila Cohen addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 118,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e86"),
+	"displayName" : "Public comment dated Mar 27/09 from Robb Neuert addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 119,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e87"),
+	"displayName" : "Public comment dated Mar 27/09 from Claude Aumond addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 120,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e88"),
+	"displayName" : "Public comment dated Mar 27/09 from Sheron Combs addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 121,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e89"),
+	"displayName" : "Public comment dated Mar 27/09 from Christopher Combs addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 122,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e8a"),
+	"displayName" : "Public comment dated Mar 27/09 from Chad Beaulieu addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 123,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e8b"),
+	"displayName" : "Public comment dated Mar 27/09 from Victor Nesbitt addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 124,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e8c"),
+	"displayName" : "Public comment dated Mar 27/09 from Bill Grisdale addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 125,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e8d"),
+	"displayName" : "Public comment dated Mar 27/09 from Susan Erlandson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 126,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e8e"),
+	"displayName" : "Public comment dated Mar 27/09 from Mark Law addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 127,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e8f"),
+	"displayName" : "Public comment dated Mar 27/09 from Hans Larsson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 128,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e90"),
+	"displayName" : "Public comment dated Mar 27/09 from Dayna Stevens addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 129,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e91"),
+	"displayName" : "Public comment dated Mar 27/09 from Larry Day addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 130,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e92"),
+	"displayName" : "Public comment dated Mar 27/09 from Leona Arnold addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 131,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e93"),
+	"displayName" : "Public comment dated Mar 27/09 from Mark Swanky addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 132,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e94"),
+	"displayName" : "Public comment dated Mar 27/09 from Dan Carr addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 133,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e95"),
+	"displayName" : "Public comment dated Mar 27/09 from D Pederson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 134,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e96"),
+	"displayName" : "Public comment dated Mar 27/09 from Dan Colgate addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 135,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e97"),
+	"displayName" : "Public comment dated Mar 27/09 from Bryan Agnew addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 136,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e98"),
+	"displayName" : "Public comment dated Mar 27/09 from Patty Wren  addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 137,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e99"),
+	"displayName" : "Public comment dated Mar 27/09 from Ms Walters addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 138,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e9a"),
+	"displayName" : "Public comment dated Mar 27/09 from Lynn Wiffen addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 139,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e9b"),
+	"displayName" : "Public comment dated Mar 27/09 from Doug Belsher addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 140,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e9c"),
+	"displayName" : "Public comment dated Mar 27/09 from Joe Hoessl addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 141,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e9d"),
+	"displayName" : "Public comment dated Mar 27/09 from Wendy MacKay addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 142,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e9e"),
+	"displayName" : "Public comment dated Mar 27/09 from Jack Mullett addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 143,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254e9f"),
+	"displayName" : "Public comment dated Mar 27/09 from Lindsay Thompson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 144,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ea0"),
+	"displayName" : "Public comment dated Mar 27/09 from Don Busse addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 145,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ea1"),
+	"displayName" : "Public comment dated Mar 27/09 from Kirk Krause addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 146,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ea2"),
+	"displayName" : "Public comment dated Mar 27/09 from DK Heppner addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 147,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ea3"),
+	"displayName" : "Public comment dated Mar 27/09 from Adam Durham addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 148,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ea4"),
+	"displayName" : "Public comment dated Mar 27/09 from Daniel Pellan addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 149,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ea5"),
+	"displayName" : "Public comment dated Mar 27/09 from Chris Moore addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 150,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ea6"),
+	"displayName" : "Public comment dated Mar 27/09 from Ryan Bailey addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 151,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ea7"),
+	"displayName" : "Public comment dated Mar 27/09 from Kristen Weir addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 152,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ea8"),
+	"displayName" : "Public comment dated Mar 27/09 from Adrienne Alberts addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 153,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ea9"),
+	"displayName" : "Public comment dated Mar 27/09 from Ryan Oliver addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 154,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eaa"),
+	"displayName" : "Public comment dated Mar 27/09 from Leanna Ilnicki addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 155,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eab"),
+	"displayName" : "Public comment dated Mar 27/09 from john Derksen addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 156,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eac"),
+	"displayName" : "Public comment dated Mar 27/09 from Garth McIntyre addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 157,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ead"),
+	"displayName" : "Public comment dated Mar 27/09 from Stan Cail addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 158,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eae"),
+	"displayName" : "Public comment dated Mar 27/09 from Dean Fulton addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 159,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eaf"),
+	"displayName" : "Public comment dated Mar 27/09 from Bob Trampleasure addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 160,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eb0"),
+	"displayName" : "Public comment dated Mar 27/09 from Dean Bonner addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 161,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eb1"),
+	"displayName" : "Public comment dated Mar 27/09 from David Jackson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 162,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eb2"),
+	"displayName" : "Public comment dated Mar 27/09 from Kurt Holley addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 163,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eb3"),
+	"displayName" : "Public comment dated Mar 27/09 from Patrick McGuire addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 164,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eb4"),
+	"displayName" : "Public comment dated Mar 27/09 from Don Martin addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 165,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eb5"),
+	"displayName" : "Public comment dated Mar 27/09 from Duncan Moore addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 166,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eb6"),
+	"displayName" : "Public comment dated Mar 27/09 from Sasha Kokesch addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 167,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eb7"),
+	"displayName" : "Public comment dated Mar 27/09 from Nadine Cree addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 168,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eb8"),
+	"displayName" : "Public comment dated Mar 27/09 from Nikki Elzinga addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 169,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eb9"),
+	"displayName" : "Public comment dated Mar 27/09 from Glenda Winger addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 170,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eba"),
+	"displayName" : "Public comment dated Mar 27/09 from Kirsten Fleming addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 171,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ebb"),
+	"displayName" : "Public comment dated Mar 27/09 from Jenny Huston addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 172,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ebc"),
+	"displayName" : "Public comment dated Mar 27/09 from Gerald Doering addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 173,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ebd"),
+	"displayName" : "Public comment dated Mar 30/09 from Helen Brown addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 174,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ebe"),
+	"displayName" : "Public comment dated Mar 30/09 from Chris Rosendale addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 175,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ebf"),
+	"displayName" : "Public comment dated Mar 30/09 from Brad Guraliuk addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 176,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ec0"),
+	"displayName" : "Public comment dated Mar 31/09 from Eric Lehti addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 177,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ec1"),
+	"displayName" : "Public comment dated Apr 1/09 from Rick Hamel addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 178,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ec2"),
+	"displayName" : "Public comment dated Apr 1/09 from Jim Thomas addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 179,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ec3"),
+	"displayName" : "Public comment dated Apr 1/09 from Wayne Plummer addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 180,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ec4"),
+	"displayName" : "Public comment dated Apr 2/09 from Brent Fraser addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 181,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ec5"),
+	"displayName" : "Public comment dated Apr 2/09 from Don Branch addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 182,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ec6"),
+	"displayName" : "Public comment dated Apr 2/09 from Nadine Copeland addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 183,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ec7"),
+	"displayName" : "Public comment dated Apr 2/09 from Vern Peever addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 184,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ec8"),
+	"displayName" : "Public comment dated Apr 2/09 from Stan Cail addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 185,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ec9"),
+	"displayName" : "Public comment dated Apr 2/09 from Dwayne Kunz addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 186,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eca"),
+	"displayName" : "Public comment dated Apr 2/09 from Tom Bachynski addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 187,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ecb"),
+	"displayName" : "Public comment dated Apr 2/09 from Chris Pettman addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 188,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ecc"),
+	"displayName" : "Public comment dated Apr 2/09 from Elesha Saunders addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 189,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ecd"),
+	"displayName" : "Public comment dated Apr 2/09 from Gaylene Desautels addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 190,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ece"),
+	"displayName" : "Public comment dated Apr 2/09 from Frank McFadden addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 191,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ecf"),
+	"displayName" : "Public comment dated Apr 2/09 from Larry Badke addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 192,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ed0"),
+	"displayName" : "Public comment dated Apr 2/09 from Karen Weighton addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 193,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ed1"),
+	"displayName" : "Public comment dated Apr 2/09 from Dan Parker addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 194,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ed2"),
+	"displayName" : "Public comment dated Apr 2/09 from Tracy Leach addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 195,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ed3"),
+	"displayName" : "Public comment dated Apr 2/09 from Ingrid Meyer addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 196,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ed4"),
+	"displayName" : "Public comment dated Apr 2/09 from Don Urquhart addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 197,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ed5"),
+	"displayName" : "Public comment dated Apr 2/09 from Chris Rosendale addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 198,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ed6"),
+	"displayName" : "Public comment dated Apr 2/09 from David Baye addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 199,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ed7"),
+	"displayName" : "Public comment dated Apr 2/09 from Tracie King addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 200,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ed8"),
+	"displayName" : "Public comment dated Apr 2/09 from Janet Wilcox addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 201,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ed9"),
+	"displayName" : "Public comment dated Apr 2/09 from Sarah Hildebrandt addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 202,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eda"),
+	"displayName" : "Public comment dated Apr 2/09 from Murray Kent addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 203,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254edb"),
+	"displayName" : "Public comment dated Apr 2/09 from Barb Hildebrandt addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 204,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254edc"),
+	"displayName" : "Public comment dated Apr 2/09 from Kathy Hedlund addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 205,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254edd"),
+	"displayName" : "Public comment dated Apr 2/09 from Matt Gjaltema addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 206,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ede"),
+	"displayName" : "Public comment dated Apr 2/09 from Matt Kennedy addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 207,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254edf"),
+	"displayName" : "Public comment dated Apr 2/09 from Dallas Carson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 208,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ee0"),
+	"displayName" : "Public comment from Bill Klein addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 209,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ee1"),
+	"displayName" : "Public comment from Kate Bernier addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 210,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ee2"),
+	"displayName" : "Public comment from Tracey Gard addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 211,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ee3"),
+	"displayName" : "Public comment from Brian Edwards addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 212,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ee4"),
+	"displayName" : "Public comment from Nadine Copeland addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 213,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ee5"),
+	"displayName" : "Public comment from Alfred Agedo addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 214,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ee6"),
+	"displayName" : "Public comment from Andrew Thompson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 215,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ee7"),
+	"displayName" : "Public comment from Rick Weil addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 216,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ee8"),
+	"displayName" : "Public comment from Dan Parker addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 217,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ee9"),
+	"displayName" : "Public comment from Claude Aumond addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 218,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eea"),
+	"displayName" : "Public comment from Darryl Paul addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 219,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eeb"),
+	"displayName" : "Public comment from Rick Paul addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 220,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eec"),
+	"displayName" : "Public comment from Stuart McFadden addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 221,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eed"),
+	"displayName" : "Public comment from Jerry Brassard addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 222,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eee"),
+	"displayName" : "Public comment from Rona MacDonald addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 223,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eef"),
+	"displayName" : "Public comment from Dale MacDonald addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 224,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ef0"),
+	"displayName" : "Public comment from Tom Corrin addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 225,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ef1"),
+	"displayName" : "Public comment from Tanya Popoff addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 226,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ef2"),
+	"displayName" : "Public comment from Patricia Riley addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 227,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ef3"),
+	"displayName" : "Public comment from Alan Reichardt addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 228,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ef4"),
+	"displayName" : "Public comment from Bill Myckatyn addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 229,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ef5"),
+	"displayName" : "Public comment from Brian Getson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 230,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ef6"),
+	"displayName" : "Public comment from Allan Harwood addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 231,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ef7"),
+	"displayName" : "Public comment from Jay Cheek addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 232,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ef8"),
+	"displayName" : "Public comment from Gordon Puhallo addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 233,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ef9"),
+	"displayName" : "Public comment from Karen Jorde addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 234,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254efa"),
+	"displayName" : "Public comment from Taya Grimes addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 235,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254efb"),
+	"displayName" : "Public comment from Ingrid Vickers addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 236,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254efc"),
+	"displayName" : "Public comment from Peggy McKinlay addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 237,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254efd"),
+	"displayName" : "Public comment from Mike Bunyan addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 238,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254efe"),
+	"displayName" : "Public comment from Diana Puhallo addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 239,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254eff"),
+	"displayName" : "Public comment from Heidi Fickell addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 240,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f00"),
+	"displayName" : "Public comment from Denise Frank addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 241,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f01"),
+	"displayName" : "Public comment from Lorena Wilson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 242,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f02"),
+	"displayName" : "Public comment from Judy Launchbury addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 243,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f03"),
+	"displayName" : "Public comment from Kristina Endel addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 244,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f04"),
+	"displayName" : "Public comment from Mike Lambe addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 245,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f05"),
+	"displayName" : "Public comment from Lauren Robertson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 246,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f06"),
+	"displayName" : "Public comment from Thor Schuster addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 247,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f07"),
+	"displayName" : "Public comment from Paul Schuster addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 248,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f08"),
+	"displayName" : "Public comment from Beth Mulder addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 249,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f09"),
+	"displayName" : "Public comment from Art Rauschenberger addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 250,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f0a"),
+	"displayName" : "Public comment from Don Lyons addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 251,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f0b"),
+	"displayName" : "Public comment from Simon Fraser addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 252,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f0c"),
+	"displayName" : "Public comment from Daniel Hanson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 253,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f0d"),
+	"displayName" : "Public comment from Ray Peressini addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 254,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f0e"),
+	"displayName" : "Public comment from Barry Dadswell addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 255,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f0f"),
+	"displayName" : "Public comment from Scot Klingmann addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 256,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f10"),
+	"displayName" : "Public comment dated Apr 7/09 from Mario Gedicke addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 257,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f11"),
+	"displayName" : "Public comment dated Apr 7/09 from Samantha Macintyre addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 258,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f12"),
+	"displayName" : "Public comment dated Apr 6/09 from Drew Rouse addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 259,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f13"),
+	"displayName" : "Public comment dated Apr 6/09 from Alex Lulua addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 260,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f14"),
+	"displayName" : "Public comment dated Apr 6/09 from Tracey Palangio addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 261,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f15"),
+	"displayName" : "Public comment dated Apr 6/09 from Joy Quilt addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 262,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f16"),
+	"displayName" : "Public comment dated Apr 6/09 from Greg Maurer addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 263,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f17"),
+	"displayName" : "Public comment dated Apr 6/09 from Lawrence Mayles addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 264,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f18"),
+	"displayName" : "Public comment dated Apr 6/09 from David Williams addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 265,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f19"),
+	"displayName" : "Public comment(s) submitted to Garry Alexander (EAO) at the April 1/09 open house in Williams Lake",
+	"directoryID" : 266,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f1a"),
+	"displayName" : "Public comment dated Apr 8/09 from Anita Mcallister addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 269,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f1b"),
+	"displayName" : "Public comment dated Apr 8/09 from Michele Davis addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 270,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f1c"),
+	"displayName" : "Public comment dated Apr 9/09 from Alex Binette addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 271,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f1d"),
+	"displayName" : "Public comment dated Apr 8/09 from Patricia Riley addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 272,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f1e"),
+	"displayName" : "Public comment dated Apr 8/09 from Alan Reichardt addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 273,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f1f"),
+	"displayName" : "Public comment dated Apr 8/09 from Barry Paddison addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 274,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f20"),
+	"displayName" : "Public comment dated Apr 8/09 from Harald Bartel addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 275,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f21"),
+	"displayName" : "Public comment dated Apr 8/09 from Edward Clifford addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 276,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f22"),
+	"displayName" : "Public comment dated Apr 8/09 from Helmut Loewen addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 277,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f23"),
+	"displayName" : "Public comment dated Apr 8/09 from Sheila Mortensen addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 278,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f24"),
+	"displayName" : "Public comment dated Apr 8/09 from Kristina Endel addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 279,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f25"),
+	"displayName" : "Public comment dated Apr 8/09 from Judy Launchbury addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 280,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f26"),
+	"displayName" : "Public comment dated Apr 8/09 from Daniel Cote addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 281,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f27"),
+	"displayName" : "Public comment dated Apr 8/09 from Lorena Wilson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 282,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f28"),
+	"displayName" : "Public comment dated Apr 8/09 from Daniel Hanson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 283,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f29"),
+	"displayName" : "Public comment dated Apr 8/09 from Simon Fraser addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 284,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f2a"),
+	"displayName" : "Public comment dated Apr 8/09 from Scot Klingmann addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 285,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f2b"),
+	"displayName" : "Public comment dated Apr 8/09 from Donna Bourgeois addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 286,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f2c"),
+	"displayName" : "Public comment dated Apr 8/09 from Barry Bourgeois addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 287,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f2d"),
+	"displayName" : "Public comment dated Apr 8/09 from Mark Moir addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 288,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f2e"),
+	"displayName" : "Public comment dated Apr 8/09 from Russell Shetler addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 289,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f2f"),
+	"displayName" : "Public comment dated Apr 14/09 from Jeanne McCartney addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 290,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f30"),
+	"displayName" : "Public comment dated Apr 12/09 from Eileen King addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 291,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f31"),
+	"displayName" : "Public comment dated Apr 10/09 from David Williams addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 292,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f32"),
+	"displayName" : "Public comment dated Apr 15/09 from Joe DiMarco addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 293,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f33"),
+	"displayName" : "Public comment dated Apr 11/09 from Kyle Gray addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 294,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f34"),
+	"displayName" : "Public comment dated Apr 12/09 from George Lewins addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 295,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f35"),
+	"displayName" : "Public comment dated Apr 11/09 from Ed Hill addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 296,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f36"),
+	"displayName" : "Public comment dated Apr 10/09 from Shari Mernett addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 297,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f37"),
+	"displayName" : "Public comment dated Apr 10/09 from Daniela Herold addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 298,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f38"),
+	"displayName" : "Public comment dated Apr 10/09 from Robert Creese addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 299,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f39"),
+	"displayName" : "Public comment dated Apr 14/09 from Gordon Pettern addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 300,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f3a"),
+	"displayName" : "Public comment dated Apr 14/09 from Lisa Bowering addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 301,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f3b"),
+	"displayName" : "Public comment dated Apr 14/09 from Steve Lamont addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 302,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f3c"),
+	"displayName" : "Public comment dated Apr 14/09 from Juli Harland addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 303,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f3d"),
+	"displayName" : "Public comment dated Apr 14/09 from Bryan Agnew addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 304,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f3e"),
+	"displayName" : "Public comment dated Apr 14/09 from Don Fornwald addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 305,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f3f"),
+	"displayName" : "Public comment dated Apr 15/09 from Christina Switzer addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 306,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f40"),
+	"displayName" : "Public comment dated Apr 19/09 from Richard Holmes addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 307,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f41"),
+	"displayName" : "Public comment dated Apr 15/09 from Chirs Rosendale addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 309,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f42"),
+	"displayName" : "Public comment dated Apr 15/09 from Joanna MacLean addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 310,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f43"),
+	"displayName" : "Public comment dated Apr 15/09 from Joanne Stacey addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 311,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f44"),
+	"displayName" : "Public comment dated Apr 15/09 from Jim French addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 312,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f45"),
+	"displayName" : "Public comment dated Apr 15/09 from Kevin Scherrer addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 313,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f46"),
+	"displayName" : "Public comment dated Apr 6/09 from Martin Moore addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 314,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f47"),
+	"displayName" : "Public comment dated Apr 17/09 from Naje Gauthier addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 315,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f48"),
+	"displayName" : "Public comment dated Apr 16/09 from Donald Fuller addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 316,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f49"),
+	"displayName" : "Public comment dated Apr 17/09 from Stanley Howard addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 317,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f4a"),
+	"displayName" : "Public comment dated Apr 18/09 from Jim Sutherland addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 318,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f4b"),
+	"displayName" : "Public comment dated Apr 20/09 from M Tupper addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 319,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f4c"),
+	"displayName" : "Public comment dated Apr 21/09 from Martha Henry addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 321,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f4d"),
+	"displayName" : "Public comment dated Apr 21/09 from Natacha Hyde addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 322,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f4e"),
+	"displayName" : "Public comment dated Apr 21/09 from M Tupper addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 323,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f4f"),
+	"displayName" : "Public comment dated Apr 22/09 from Greg Maurer addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 328,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f50"),
+	"displayName" : "Public comment dated Apr 16/09 from Marlyn Horsdal addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 331,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f51"),
+	"displayName" : "Public comment dated Apr 24/09 from K Gosseh addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 333,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f52"),
+	"displayName" : "Public comment dated Apr 12/09 from Eileen King addressed to Colette Spagnuolo (CEAA) re the proposed Prosperity Project",
+	"directoryID" : 334,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f53"),
+	"displayName" : "Public comment dated Apr 22/09 from Tim Fisch addressed to Colette Spagnuolo (CEAA) re the proposed Prosperity Project",
+	"directoryID" : 335,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f54"),
+	"displayName" : "Public comment dated Apr 22/09 from Greg Maurer addressed to Colette Spagnuolo (CEAA) re the proposed Prosperity Project",
+	"directoryID" : 336,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f55"),
+	"displayName" : "Public comment dated Apr 23/09 from Migs Lovlin addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 344,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f56"),
+	"displayName" : "Public comment dated Apr 23/09 from Cecile Davidson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 345,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f57"),
+	"displayName" : "Public comment dated Apr 28/09 from Clay Driver addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 346,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f58"),
+	"displayName" : "Public comment dated Apr 28/09 from Derrick Stratton addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 347,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f59"),
+	"displayName" : "Public comment dated Apr 27/09 from Bruce MacLeod addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 348,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f5a"),
+	"displayName" : "Public comment dated Apr 28/09 from Mike Wilson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 349,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f5b"),
+	"displayName" : "Public comment dated May 1/09 from Joseph Gosselin addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 354,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f5c"),
+	"displayName" : "Public comment dated Apr 30/09 from Tyler Warman addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 355,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f5d"),
+	"displayName" : "Public comment dated Apr 30/09 from Doug Funk addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 356,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f5e"),
+	"displayName" : "Public comment dated Apr 30/09 from David Shillington addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 357,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f5f"),
+	"displayName" : "Public comment dated Apr 30/09 from Ken Tassell addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 358,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f60"),
+	"displayName" : "Public comment dated Apr 30/09 from Rob Wilson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 359,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f61"),
+	"displayName" : "Public comment dated Apr 30/09 from John Stace-Smith addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 360,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f62"),
+	"displayName" : "Public comment dated Apr 30/09 from Debbie Dengel addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 361,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f63"),
+	"displayName" : "Public comment dated Apr 30/09 from Mike Anderson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 362,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f64"),
+	"displayName" : "Public comment dated Apr 30/09 from Stacey Wilson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 363,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f65"),
+	"displayName" : "Public comment dated May 3/09 from Dustin Renney addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 365,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f66"),
+	"displayName" : "Public comment dated May 1/09 from Jerad Moe addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 366,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f67"),
+	"displayName" : "Public comment dated May 1/09 from G Stevenson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 367,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f68"),
+	"displayName" : "Public comment dated May 1/09 from Debbie Dengel addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 368,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f69"),
+	"displayName" : "Public comment dated May 1/09 from John Satce-Smith addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 369,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f6a"),
+	"displayName" : "Public comment dated May 1/09 from Mike Anderson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 370,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f6b"),
+	"displayName" : "Public comment dated May 1/09 from Lars Banke addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 371,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f6c"),
+	"displayName" : "Public comment dated May 4/09 from Mary Magee addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 374,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f6d"),
+	"displayName" : "Public comment dated May 6/09 from Susan Smitten addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 375,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f6e"),
+	"displayName" : "Public comment dated May 4/09 from Valerie Hagg-Brown addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 376,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f6f"),
+	"displayName" : "Public comment dated May 4/09 from Neil Wejr addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 377,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f70"),
+	"displayName" : "Public comment dated May 4/09 from Felix Schellenberg addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 378,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f71"),
+	"displayName" : "Public comment dated May 4/09 from Sarah Knight addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 379,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f72"),
+	"displayName" : "Public comment dated May 5/09 from Tyler Warman addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 380,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f73"),
+	"displayName" : "Public comment dated May 5/09 from Karina Howell addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 381,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f74"),
+	"displayName" : "Public comment dated May 5/09 from Fred Stark addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 382,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f75"),
+	"displayName" : "Public comment dated May 5/09 from Mike Deausy addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 383,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f76"),
+	"displayName" : "Public comment dated May 4/09 from Tim Thielmann addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 384,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f77"),
+	"displayName" : "Public comment dated May 4/09 from Terri Watson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 385,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f78"),
+	"displayName" : "Public comment dated May 6/09 from Renee Lozeau addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 386,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f79"),
+	"displayName" : "Public comment dated May 6/09 from Bill Layton addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 387,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f7a"),
+	"displayName" : "Public comment dated May 5/09 from Susan Smitten addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 388,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f7b"),
+	"displayName" : "Public comment dated May 6/09 from Marina Smith addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 389,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f7c"),
+	"displayName" : "Public comment dated May 7/09 from Jon Sarver addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 390,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f7d"),
+	"displayName" : "Public comment dated May 6/09 from Robert Wild addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 391,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f7e"),
+	"displayName" : "Public comment dated May 10/09 from John Mayba addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 392,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f7f"),
+	"displayName" : "Public comment dated May 8/09 from Susan Gage addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 393,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f80"),
+	"displayName" : "Public comment dated May 7/09 from Caroline Hamilton addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 395,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f81"),
+	"displayName" : "Public comment dated May 11/09 from Eileen Wttewaall addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 396,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f82"),
+	"displayName" : "Public comment dated May 10/09 from Tim Woods addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 397,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f83"),
+	"displayName" : "Public comment dated May 9/09 from Ishbel Cormack addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 398,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f84"),
+	"displayName" : "Public comment dated April 6/09 from Tracey Palangio addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 399,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f85"),
+	"displayName" : "Public comment dated April 6/09 from Jon Sarver addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 400,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f86"),
+	"displayName" : "Public comment dated April 6/09 from Lawerence Mayles addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 401,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f87"),
+	"displayName" : "Public comment dated April 7/09 from Mario Gedicke addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 402,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f88"),
+	"displayName" : "Public comment dated April 14/09 from Debbie Graham addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 403,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f89"),
+	"displayName" : "Public comment dated April 14/09 from Bill Klein addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 404,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f8a"),
+	"displayName" : "Public comment dated April 6/09 from Ms. Dawn addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 405,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f8b"),
+	"displayName" : "Public comment dated April 14/09 from John Fleming addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 406,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f8c"),
+	"displayName" : "Public comment dated April 18/09 from Richard Holmes addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 407,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f8d"),
+	"displayName" : "Public comment dated May 11/09 from Pat Swift addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 408,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f8e"),
+	"displayName" : "Public comment dated May 8/09 from Sylvio Aumond addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 409,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f8f"),
+	"displayName" : "Public comment dated May 12/09 from Kim Dillon addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 410,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f90"),
+	"displayName" : "Public comment dated May 7/09 from Larry Day addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 414,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f91"),
+	"displayName" : "Public comment dated May 14/09 from Noreen Thiele addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 415,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f92"),
+	"displayName" : "Public comment dated May 14/09 from Samantha Macintyre addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 416,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f93"),
+	"displayName" : "Public comment dated May 12/09 from R Isfeld addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 417,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f94"),
+	"displayName" : "Public comment dated May 12/09 from Kevin Grinyer addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 418,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f95"),
+	"displayName" : "Public comment dated May 12/09 from Michelle Brereton addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 419,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f96"),
+	"displayName" : "Public comment dated May 12/09 from Ryan Carter addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 420,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f97"),
+	"displayName" : "Public comment dated May 12/09 from Debbie Gogolin addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 421,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f98"),
+	"displayName" : "Public comment dated May 12/09 from Marilyn Kan addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 422,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f99"),
+	"displayName" : "Public comment dated May 12/09 from Ken Rogers addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 423,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f9a"),
+	"displayName" : "Public comment dated May 12/09 from Marina Smith addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 424,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f9b"),
+	"displayName" : "Public comment dated May 12/09 from Wolfgang Zilker addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 425,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f9c"),
+	"displayName" : "Public comment dated May 14/09 from Kevin Sytsma addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 428,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f9d"),
+	"displayName" : "Public comment dated May 14/09 from Deb Lowe addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 429,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f9e"),
+	"displayName" : "Public comment dated May 15/09 from Claudia Medina addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 431,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254f9f"),
+	"displayName" : "Public comment dated May 19/09 from Edna-May Myhre addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 433,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fa0"),
+	"displayName" : "Public comment dated May 19/09 from Rod Knopp addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 434,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fa1"),
+	"displayName" : "Public comment dated May 19/09 from Bruce Mack addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 435,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fa2"),
+	"displayName" : "Public comment dated May 19/09 from Cynthia Foreman addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 436,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fa3"),
+	"displayName" : "Public comment dated May 20/09 from Sheila Linden addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 442,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fa4"),
+	"displayName" : "Public comment dated May 18/09 from Cynthia Foreman addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 443,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fa5"),
+	"displayName" : "Public comment received May 21/09 from Gail McLean addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 444,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fa6"),
+	"displayName" : "Public comment received May 21/09 from Rechelle McLean addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 445,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fa7"),
+	"displayName" : "Public comment dated May 19/09 from Daphne M. Taylor addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 446,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fa8"),
+	"displayName" : "Public comment dated May 18/09 from Barbara A. Brodersen addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 447,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fa9"),
+	"displayName" : "Public comment dated May 16/09 from Anthony V. Liman addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 448,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254faa"),
+	"displayName" : "Public comment dated May 25/09 from John Dressler addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 449,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fab"),
+	"displayName" : "Comment from B Mack received 20 May 2009.",
+	"directoryID" : 450,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fac"),
+	"displayName" : "Comment received from E Lyman dated 16 May 2009.",
+	"directoryID" : 451,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fad"),
+	"displayName" : "Comment received from M Wourms dated 16 May 2009.",
+	"directoryID" : 452,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fae"),
+	"displayName" : "Comment received from G Lowe dated 16 May 2009.",
+	"directoryID" : 453,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254faf"),
+	"displayName" : "Comment received from J Colby dated 15 May 2009.",
+	"directoryID" : 454,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fb0"),
+	"displayName" : "Comment received from T McFarlane dated 15 May 2009.",
+	"directoryID" : 455,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fb1"),
+	"displayName" : "Comment received from T Telford dated 15 May 2009.",
+	"directoryID" : 456,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fb2"),
+	"displayName" : "Comment received from C Simon dated 19 May 2009.",
+	"directoryID" : 457,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fb3"),
+	"displayName" : "Comment received from E-M Myhre dated 19 May 2009.",
+	"directoryID" : 459,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fb4"),
+	"displayName" : "Comment received from S & G Capnerhurst dated 17 May 2009.",
+	"directoryID" : 460,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fb5"),
+	"displayName" : "Comment from J MacPherson dated 16 May 2009.",
+	"directoryID" : 461,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fb6"),
+	"displayName" : "Comment from D Schellenberg dated 18 May 2009.",
+	"directoryID" : 462,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fb7"),
+	"displayName" : "Public comment dated May 20/09 from Nancy Craig addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 463,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fb8"),
+	"displayName" : "Comment from J Collett dated 17 May 2009.",
+	"directoryID" : 464,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fb9"),
+	"displayName" : "Public comment dated May 20/09 from Ian Lanki Dressler addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 465,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fba"),
+	"displayName" : "Comment from S Ash dated 20 May 2009.",
+	"directoryID" : 466,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fbb"),
+	"displayName" : "Public comment dated May 19/09 from Casey Cawton addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 468,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fbc"),
+	"displayName" : "Comment from P Pokeda dated 20 May 2009.",
+	"directoryID" : 469,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fbd"),
+	"displayName" : "Public comment dated May 19/09 from Jeremy Tattrie addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 470,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fbe"),
+	"displayName" : "Comment from J Pyrczak dated 21 May 2009.",
+	"directoryID" : 471,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fbf"),
+	"displayName" : "Comment from D-M Cyr dated 21 May 2009.",
+	"directoryID" : 472,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fc0"),
+	"displayName" : "Public comment dated May 19/09 from Riki Hill addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 473,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fc1"),
+	"displayName" : "Public comment dated May 19/09 from Gary Roste addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 474,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fc2"),
+	"displayName" : "Public comment dated May 20/09 from Karen Hurley addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 475,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fc3"),
+	"displayName" : "Public comment dated May 20/09 from Alysha Crosina addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 476,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fc4"),
+	"displayName" : "Public comment dated May 21/09 from Gizelle S. River addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 477,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fc5"),
+	"displayName" : "Public comment dated May 21/09 from Marilyn Walsh addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 478,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fc6"),
+	"displayName" : "Public comment dated May 21/09 from James Beaulieu addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 479,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fc7"),
+	"displayName" : "Public comment dated May 21/09 from Yvonne Burnett addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 480,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fc8"),
+	"displayName" : "Public comment dated May 20/09 from Cheryl Proctor addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 481,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fc9"),
+	"displayName" : "Public comment dated May 25/09 from Erica Nitchie addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 483,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fca"),
+	"displayName" : "Public comment dated May 25/09 from John Dressler and Diana French addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 487,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fcb"),
+	"displayName" : "Public comment dated May 25/09 from Jack Thornburgh addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 489,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fcc"),
+	"displayName" : "Public comment dated May 25/09 from Sheila Moss addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 490,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fcd"),
+	"displayName" : "Public comment dated May 22/09 from Darlene and Jimmy Rogers addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 491,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fce"),
+	"displayName" : "Public comment dated May 25/09 from Winonah Pite addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 493,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fcf"),
+	"displayName" : "Public comment dated May 25/09 from Ruth D'Hollander addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 494,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fd0"),
+	"displayName" : "Public comment dated May 25/09 from Russell Samuel Myers Ross and Helen Haig-Brown addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 495,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fd1"),
+	"displayName" : "Public comment dated May 25/09 from Kalin Brockhaus addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 496,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fd2"),
+	"displayName" : "Public comment dated May 25/09 from Marnie Wiffen and Ron Kohnke addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 497,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fd3"),
+	"displayName" : "Public comment dated May 25/09 from Lorena Dulay addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 498,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fd4"),
+	"displayName" : "Public comment dated May 25/09 from Christine McClarnon addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 499,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fd5"),
+	"displayName" : "Public comment dated May 22/09 from Nolan B addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 509,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fd6"),
+	"displayName" : "Public comment dated May 22/09 from Mike Hawes addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 510,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fd7"),
+	"displayName" : "Public comment dated May 22/09 from Jacquie Goodsell addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 511,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fd8"),
+	"displayName" : "Public comment dated May 22/09 from Regan Harper addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 512,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fd9"),
+	"displayName" : "Public comment dated May 24/09 from Erica Nitchie addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 513,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fda"),
+	"displayName" : "Public comment dated May 25/09 from Carol Toutant addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 514,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fdb"),
+	"displayName" : "Public comment dated May 25/09 from Ellen Aitchison addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 515,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fdc"),
+	"displayName" : "Public comment dated May 23/09 from Jill Boucher addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 516,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fdd"),
+	"displayName" : "Public comment dated May 23/09 from Jamie Goodsell addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 517,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fde"),
+	"displayName" : "Public comment dated May 24/09 from Nancy Oppermann addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 518,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fdf"),
+	"displayName" : "Public comment dated May 23/09 from Eric Boucher addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 519,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fe0"),
+	"displayName" : "Public comment dated May 24/09 from Crystal Jones addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 520,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fe1"),
+	"displayName" : "Public comment dated May 23/09 from Tim Caldwell addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 521,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fe2"),
+	"displayName" : "Public comment dated May 23/09 from Tyler Boucher addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 522,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fe3"),
+	"displayName" : "Public comment dated May 21/09 from Charity Mewburn addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 523,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fe4"),
+	"displayName" : "Public comment dated May 23/09 from Carol Boucher addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 524,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fe5"),
+	"displayName" : "Public comment dated May 23/09 from Mark Chestnut addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 525,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fe6"),
+	"displayName" : "Public comment dated May 24/09 from Marvin Rosenau addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 526,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fe7"),
+	"displayName" : "Public comment dated May 23/09 from Troy Weatherby addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 527,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fe8"),
+	"displayName" : "Public comment dated May 24/09 from Eric Bisc addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 528,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fe9"),
+	"displayName" : "Public comment dated May 23/09 from Gillian Hanlon addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 529,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fea"),
+	"displayName" : "Public comment dated May 23/09 from Sandie Hollick-Kenyon addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 530,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254feb"),
+	"displayName" : "Public comment dated May 22/09 from Ron Warren addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 531,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fec"),
+	"displayName" : "Public comment dated May 22/09 from Christina Nikolic addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 532,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fed"),
+	"displayName" : "Public comment dated May 25/09 from Kim Irvine addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 533,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fee"),
+	"displayName" : "Public comment dated May 22/09 from Pat Spencer addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 534,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fef"),
+	"displayName" : "Public comment dated May 25/09 from Williams Lake Filed Naturalists addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 535,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ff0"),
+	"displayName" : "Public comment dated May 25/09 from Don Marshall addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 536,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ff1"),
+	"displayName" : "Public comment dated May 25/09 from Shayla Wright addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 537,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ff2"),
+	"displayName" : "Public comment dated May 25/09 from Richard Case addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 538,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ff3"),
+	"displayName" : "Public comment dated May 25/09 from Hannah Carpendale addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 539,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ff4"),
+	"displayName" : "Public comment dated May 25/09 from Brian McKinlay addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 540,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ff5"),
+	"displayName" : "Public comment dated May 25/09 from Don Bright addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 541,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ff6"),
+	"displayName" : "Public comment dated May 25/09 from Jessica Swift addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 542,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ff7"),
+	"displayName" : "Public comment dated May 25/09 from Jane Brett addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 543,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ff8"),
+	"displayName" : "Public comment dated May 22/09 from Kelly Reuter addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 544,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ff9"),
+	"displayName" : "Public comment dated May 24/09 from Sibylle Zilker addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 545,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ffa"),
+	"displayName" : "Public comment dated May 25/09 from John Werring addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 546,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ffb"),
+	"displayName" : "Public comment dated May 25/09 from Marjorie Schuk addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 547,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ffc"),
+	"displayName" : "Public comment dated May 25/09 from Rolt Hagedorn addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 548,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ffd"),
+	"displayName" : "Public comment dated May 25/09 from Carol Smithson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 549,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254ffe"),
+	"displayName" : "Public comment dated May 25/09 from Odessa Shuquaya addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 550,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00254fff"),
+	"displayName" : "Public comment dated May 25/09 from Geoffrey Senichenko addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 551,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255000"),
+	"displayName" : "Public comment dated May 25/09 from Stephanie Tweedie addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 552,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255001"),
+	"displayName" : "Public comment dated May 25/09 from Susanne Wilson addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 553,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255002"),
+	"displayName" : "Public comment dated May 25/09 from Carol Boucher addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 554,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255003"),
+	"displayName" : "Public comment dated May 24/09 from Anna Kanary addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 555,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255004"),
+	"displayName" : "Public comment dated May 21/09 from Dennis Moore addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 556,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255005"),
+	"displayName" : "Public comment dated May 25/09 from Mining Watch Canada",
+	"directoryID" : 557,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255006"),
+	"displayName" : "Public comment dated May 25/09 from Mavis Gillie addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 573,
+	"parentID" : 86,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255007"),
+	"displayName" : "Proponent Comments/Correspondence",
+	"directoryID" : 267,
+	"parentID" : 2,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255008"),
+	"displayName" : "Document dated April 13/09 from Taseko Mines Ltd (Proponent) re Water Quality Information for the Environmental Assessment of the proposed Prosperity Project",
+	"directoryID" : 268,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255009"),
+	"displayName" : "Memo dated April 20/09 from Rod Bell-Irving (Taseko) re Raptor Nest Locations in Mine Site and Transmission Line for the proposed Prosperity Project",
+	"directoryID" : 320,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025500a"),
+	"displayName" : "Air Quality Memo with Attachments dated April 20/09 from Taseko re the proposed Prosperity Project",
+	"directoryID" : 327,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025500b"),
+	"displayName" : "Letter with attachments addressed to Garry Alexander (EAO) from Taseko re additional background information concerning wildlife rating tables.",
+	"directoryID" : 332,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025500c"),
+	"displayName" : "Table dated May 12/09 from Rod Bell-Irving (Taseko) re responses to Environment Canada interim comments on the proposed Prosperity Project",
+	"directoryID" : 412,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025500d"),
+	"displayName" : "Table dated May 12/09 from Rod Bell-Irving (Taseko) re responses to MEMPR comments on the proposed Prosperity Project",
+	"directoryID" : 413,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025500e"),
+	"displayName" : "Taseko's response to comments submitted by Mike Engelsjord (DFO) re the proposed Prosperity Project",
+	"directoryID" : 427,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025500f"),
+	"displayName" : "Taseko's response to comments submitted by Graham Veale (MOE) re the proposed Prosperity Project",
+	"directoryID" : 437,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255010"),
+	"displayName" : "Taseko's response to comments submitted by Karen Moores (MOE) re the proposed Prosperity Project",
+	"directoryID" : 438,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255011"),
+	"displayName" : "Taseko's response to comments submitted by MOE Fisheries re fish and fish habitat comments on the proposed Prosperity Project",
+	"directoryID" : 439,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255012"),
+	"displayName" : "Taseko's response to comments submitted by MOE re terrestrial comments on the proposed Prosperity Project",
+	"directoryID" : 440,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255013"),
+	"displayName" : "Taseko's response to comments submitted by Kim Bellefontaine (MEMPR) re the proposed Prosperity Project",
+	"directoryID" : 441,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255014"),
+	"displayName" : "Taseko's response to comments submitted by MOE Environmental Stewardship Division preliminary comments on water hydrology and hydrogeology",
+	"directoryID" : 484,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255015"),
+	"displayName" : "Taseko Mines response to MEMPR comments on reclamation aspects of the proposed Prosperity project",
+	"directoryID" : 485,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255016"),
+	"displayName" : "Taseko Mines response to comment submitted by the Esketemc First Nation",
+	"directoryID" : 486,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255017"),
+	"displayName" : "Taseko's responses to interim comments received from MOE (Kym Keogh) related to our Prosperity Project water quality assessment",
+	"directoryID" : 488,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255018"),
+	"displayName" : "Taseko's response to comments submitted Kevin Bennett (MOE) re preliminary comments on groundwater",
+	"directoryID" : 492,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255019"),
+	"displayName" : "Taseko's response table containing the responses to all MOE comments provided during the public comment period",
+	"directoryID" : 504,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025501a"),
+	"displayName" : "Finalized Version of Seepage Assessment and Water Balance Report submitted by Taseko",
+	"directoryID" : 505,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025501b"),
+	"displayName" : "Letter and attachments dated June 15/09 from Brian Battison (Taseko) re responses to comments submitted during the public comment period for the proposed Prosperity Project",
+	"directoryID" : 566,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025501c"),
+	"displayName" : "Public comment period summary and attachments dated June 15/09 from Taseko re responses to comments submitted during the public comment period for the proposed Prosperity Project",
+	"directoryID" : 567,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025501d"),
+	"displayName" : "Memo dated July 10/09 from Rod Bell-Irving (Taseko) addressed to Kym Keogh (MOE) re Taseko Follow-Up from June 25/09 WQ Hydrology & Hydrogeology Meeting in Williams Lake",
+	"directoryID" : 580,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025501e"),
+	"displayName" : "Document submitted by Rod Bell-Irving (Taseko) The Economic and Fiscal Impacts of the Prosperity Mine on British Columbia",
+	"directoryID" : 581,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025501f"),
+	"displayName" : "Taseko Mines Limited Responses to June 24, 2009 Federal Review Panel Prosperity Gold-Copper Mine Project - Deficiency Statement - Information Requests from the Federal Review Panel",
+	"directoryID" : 595,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255020"),
+	"displayName" : "Taseko Mines Limited Responses to Provincial Information Requests",
+	"directoryID" : 596,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255021"),
+	"displayName" : "Proponent responses (Taseko) to comments submitted by MOE concerning groundwater and surface water hydrology in the Fish Creek/Big Onion drainage for the proposed Prosperity project",
+	"directoryID" : 599,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255022"),
+	"displayName" : "Letter dated September 28/09 from Taseko Mines Limited (Proponent) to Kim Bellefontaine (Ministry of Energy, Mines and Petroleum Resources) regarding prediction of effects to Fish Lake",
+	"directoryID" : 604,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255023"),
+	"displayName" : "Supplemental Report dated October 2/09 from Taseko Mines Limited (Proponent) entitled: Local and Regional Environmental Effects on Wildlife and Vegetation Resources of Importance to the Tsilhqot'in National Government at the Proposed Mine Site",
+	"directoryID" : 606,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255024"),
+	"displayName" : "Map of Human Disturbance and Protected Areas around the Mine Site dated October 6, 2009",
+	"directoryID" : 607,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255025"),
+	"displayName" : "Response to CEAA Review Panel's comments on the Prosperity Water Balance Results",
+	"directoryID" : 614,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255026"),
+	"displayName" : "Taseko Oct 2/09 response to NRCan re Responses to Outstanding Technical Issues raised by the Panel: Hydrogeology",
+	"directoryID" : 615,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255027"),
+	"displayName" : "Taseko Oct 16/09 response to Environment Canada's comments re Operational Water Balance Sensitivity Analysis",
+	"directoryID" : 616,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255028"),
+	"displayName" : "Taseko (BGC) Oct 21/09 response to Karen Moores' letter re proposed mitigation",
+	"directoryID" : 617,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255029"),
+	"displayName" : "Taseko (Knight Piesold) Oct 21/09 response to Karen Moores' letter re proposed mitigation",
+	"directoryID" : 618,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025502a"),
+	"displayName" : "Letter dated November 9, 2009 to Garry Alexander (EAO) from Brian Battison (Proponent) regarding suspension of the proposed Prosperity Project",
+	"directoryID" : 624,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025502b"),
+	"displayName" : "Letter dated November 4, 2009 to Garry Alexander (EAO) from Taseko Mines Limited regarding Fish and Fish Habitat Compensation Plan Performance Measures",
+	"directoryID" : 625,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025502c"),
+	"displayName" : "Taseko (Knight Piesold) November 6, 2009 response to Environment Canada regarding Updated Site Water Balance",
+	"directoryID" : 629,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025502d"),
+	"displayName" : "Report dated December 4, 2009 from Taseko Mines Limited regarding Fish and Fish Habitat Compensation Plan Performance Measures regarding the proposed Prosperity Gold-Copper Project",
+	"directoryID" : 632,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025502e"),
+	"displayName" : "Letter dated December 3, 2009 from Scott Jones (Taseko Mines Ltd.) to Kim Bellefontaine (MEMPR) regarding PAG Ore Stockpile at permanent mine closure - effects on water quality for the proposed Prosperity Gold-Copper Project",
+	"directoryID" : 634,
+	"parentID" : 267,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025502f"),
+	"displayName" : "Aboriginal Comments/Submissions",
+	"directoryID" : 324,
+	"parentID" : 2,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255030"),
+	"displayName" : "Letter dated April 17/09 from the First Nations Task Group addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 325,
+	"parentID" : 324,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255031"),
+	"displayName" : "Letter dated April 16/09 from  Beth Bedard (Esketemc First Nation) re the proposed Prosperity Project",
+	"directoryID" : 326,
+	"parentID" : 324,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255032"),
+	"displayName" : "Table prepared by Beth Bedard (Esketemc First Nation) re EIS completeness evaluation for the proposed Prosperity Project",
+	"directoryID" : 338,
+	"parentID" : 324,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255033"),
+	"displayName" : "Letter dated April 28/09 from the First Nations Summit and the Union of BC Indian Chiefs and the BC Assembly of First Nations addressed to Garry Alexander (EAO) and Colette Spagnuolo (CEAA) re the proposed Prosperity Project",
+	"directoryID" : 394,
+	"parentID" : 324,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255034"),
+	"displayName" : "Public comment dated April 16/09 from Chief Marilyn Camille (Canoe Creek Band) addressed to Robert Connelly (Prosperity Review Panel) re the proposed Prosperity Project",
+	"directoryID" : 430,
+	"parentID" : 324,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255035"),
+	"displayName" : "Comments dated May 25/09 from Beth Bedard (Esketemc) regarding the Prosperity Environmental Assessment",
+	"directoryID" : 482,
+	"parentID" : 324,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255036"),
+	"displayName" : "Comments dated May 25/09 from the TNG on the Environmental Impact Statement for the proposed Prosperity Project",
+	"directoryID" : 564,
+	"parentID" : 324,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255037"),
+	"displayName" : "Esketemc Traditional Use Study submitted by Beth Bedard on June 29/09",
+	"directoryID" : 574,
+	"parentID" : 324,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255038"),
+	"displayName" : "Comments dated July 27/09 from Beth Bedard (Esketemc First Nation) re the Prosperity Environmental Assessment Process and  provision of accurate information",
+	"directoryID" : 586,
+	"parentID" : 324,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255039"),
+	"displayName" : "Provincial Govt Comments/Submissions",
+	"directoryID" : 329,
+	"parentID" : 2,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025503a"),
+	"displayName" : "Comment from Kevin Bennett (MOE) addressed to Nathaniel Amann-Blake (EAO) re the groundwater component of the Application",
+	"directoryID" : 330,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025503b"),
+	"displayName" : "Memo dated April 27/09 from Kym Keogh (MOE) addressed to Nathaniel Amann-Blake (EAO) re comments on the proposed Prosperity Project",
+	"directoryID" : 337,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025503c"),
+	"displayName" : "Memo dated April 27/09 from Graham Veale (MOE) addressed to Nathaniel Amann-Blake (EAO) re comments on the proposed Prosperity Project",
+	"directoryID" : 339,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025503d"),
+	"displayName" : "Memo dated April 28/09 from Kym Keogh (MOE) addressed to Nathaniel Amann-Blake (EAO) re Interim Comments on the Taseko Prosperity Project Environmental Impact Statement/Application submitted March 26, 2009",
+	"directoryID" : 340,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025503e"),
+	"displayName" : "Table prepared by Moss Giasson (MEMPR) re the reclamation aspects of the Prosperity application",
+	"directoryID" : 341,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025503f"),
+	"displayName" : "Letter dated April 27/09 from Karen Moores (MOE) re comments on the proposed Prosperity Project",
+	"directoryID" : 342,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255040"),
+	"displayName" : "Email with attachment from Kim Bellefontaine (MEMPR) addressed to Garry Alexander (EAO) re comments on the ML/ARD geochemistry and water quality aspects of the proposed Prosperity EA Application",
+	"directoryID" : 353,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255041"),
+	"displayName" : "Comments submitted by John Youds (MOE) from the Environmental Stewardship Division on the proposed Prosperity Project",
+	"directoryID" : 364,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255042"),
+	"displayName" : "Memo dated May 11/09 from Kevin Bennett (MOE) addressed to Nathaniel Amann-Blake (EAO) re response to groundwater comments",
+	"directoryID" : 411,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255043"),
+	"displayName" : "Environmental Stewardship comments on the proposed Prosperity EIS submitted by John Youds (MOE) May 15/09",
+	"directoryID" : 426,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255044"),
+	"displayName" : "Comments from Environmental Stewardship Division on the Prosperity EIS with regard to bats and amphibians",
+	"directoryID" : 432,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255045"),
+	"displayName" : "Comments dated May 22/09 from Steve Acheson (Arch Branch) re the Archeology Branch's comments on the proposed prosperity project",
+	"directoryID" : 458,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255046"),
+	"displayName" : "Final comments submitted by Kym Keogh (MOE) re water quality",
+	"directoryID" : 500,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255047"),
+	"displayName" : "Final comments submitted by Graham Veale (MOE) re air quality",
+	"directoryID" : 501,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255048"),
+	"displayName" : "Comments submitted by Karen Moores (MOE) re components of the EIS; Mine Plan, portions regarding Acid Rock Drainage, Environmental Management Program, summary on Effects to the Environment and portions regarding Ecological Risk Assessment",
+	"directoryID" : 502,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255049"),
+	"displayName" : "Comments and responses from Environmental Stewardship Division on Terrestrial Ecosystems, Fish and Fish Habitat, Terrain and Soils, Vegetation Mapping (a separate tab on the Excel spreadsheet) and Hydrology components of the Prosperity EA",
+	"directoryID" : 508,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025504a"),
+	"displayName" : "Environmental Stewardship responses to the May 26th comments received from Taseko on Terrestrial Ecosystem assessment issues for the Prosperity EA",
+	"directoryID" : 559,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025504b"),
+	"displayName" : "MEMPR?s geotechnical review comments of the Prosperity Environmental Assessment application",
+	"directoryID" : 560,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025504c"),
+	"displayName" : "MEMPR/Lorax responses to proponent supplemental information provided in the tracking tables for the proposed Prosperity Project",
+	"directoryID" : 561,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025504d"),
+	"displayName" : "Vegetative comments submitted by Kym Keogh (MOE) sent to Nathaniel Amann-Blake (EAO) re the proposed Prosperity Project",
+	"directoryID" : 562,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025504e"),
+	"displayName" : "Email dated June 9/09 from Kim Bellefontaine (MEMPR) addressed to Garry Alexander (EAO)noting that MEMPR is satisfied with all of the responses to reclamation review comments for the EA stage of assessment for the proposed Prosperity Project",
+	"directoryID" : 563,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025504f"),
+	"displayName" : "Fish and Fish Habitat Technical Working Group meeting Action Item submitted by Lee Williston (MOE) re the proposed Prosperity project",
+	"directoryID" : 576,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255050"),
+	"displayName" : "Email and attachments dated July 24/09 from Lee Williston (MOE) re the proposed Prosperity project",
+	"directoryID" : 587,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255051"),
+	"displayName" : "Memo dated July 15/09 from Lee Williston (MOE) re results of field work conducted on Lower Fish Creek in 2009 for the proposed Prosperity project",
+	"directoryID" : 588,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255052"),
+	"displayName" : "Letter dated July 28/09 from Kym Keogh (MOE) to Garry Alexander (EAO) re aquatic ecology/water quality commitments for the proposed Prosperity project",
+	"directoryID" : 589,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255053"),
+	"displayName" : "Letter dated July 28/09 from Karen Moores (MOE) to Garry Alexander (EAO) providing advice/actions on unresolved issues for the proposed Prosperity project Environmental Impact Statement",
+	"directoryID" : 590,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255054"),
+	"displayName" : "Letter dated July 28/09 from Muhammed Sabur (MOE) to Garry Alexander (EAO) re the proposed Prosperity project environmental assessment: summary of groundwater connectivity with adjacent watersheds",
+	"directoryID" : 591,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255055"),
+	"displayName" : "Letter dated July 28/09 from Roger Packham (MOE) to Garry Alexander (EAO) providing advice/actions on unresolved issues for the proposed Prosperity project Environmental Impact Statement: terrestrial ecosystems/wildlife and vegetation",
+	"directoryID" : 592,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255056"),
+	"displayName" : "Letter dated July 28/09 from Lee Williston (MOE) to Garry Alexander (EAO) re environmental assessment of the proposed Prosperity project: Evaluation of the Fisheries Compensation Plan",
+	"directoryID" : 593,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255057"),
+	"displayName" : "MOE correspondence to EAO re Hydrology/Hydrogeology for the proposed Prosperity Project",
+	"directoryID" : 600,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255058"),
+	"displayName" : "Comments dated Sept 8/09 from Kim Bellefontaine (MEMPR) addressed to Garry Alexander (EAO) re the proposed Prosperity project",
+	"directoryID" : 601,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255059"),
+	"displayName" : "Ministry of Environment Benchmark Statement Respecting the Fish, Fish Habitat and Fisheries of Fish and Little Fish Lake, within the Taseko River Watershed",
+	"directoryID" : 602,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025505a"),
+	"displayName" : "Ministry of Environment Performance Measures for Fisheries Compensation Plan dated September 8/09",
+	"directoryID" : 603,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025505b"),
+	"displayName" : "Ministry of Environment Comments of September 16, 2009 on Taseko Additional Wildlife Tables",
+	"directoryID" : 608,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025505c"),
+	"displayName" : "Letter of September 23, 2009 to the Federal Review Panel from Roger Packham (MOE) regarding sufficiency of information provided",
+	"directoryID" : 609,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025505d"),
+	"displayName" : "Letter of October 6, 2009 to Garry Alexander (EAO) from Muhammed Sabur (MOE) regarding groundwater connectivity with adjacent watersheds",
+	"directoryID" : 610,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025505e"),
+	"displayName" : "Letter of October 6, 2009 to Nathaniel Amann-Blake (EAO) from Karen Moores (MOE) regarding proposed mitigation measures for Prosperity mine",
+	"directoryID" : 611,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025505f"),
+	"displayName" : "Memo dated November 9, 2009 to Nathaniel Amann-Blake (EAO) from Karen Moores (MOE) regarding proposed mitigation measures for Prosperity Mine",
+	"directoryID" : 623,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255060"),
+	"displayName" : "Memo dated October 14, 2009 from Lee Williston (MOE) regarding Performance Measures for Fisheries Compensation plan for the proposed Prosperity Project",
+	"directoryID" : 627,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255061"),
+	"displayName" : "Memo dated November 5, 2009 from Kim Bellefontaine (MEMPR) to Garry Alexander (EAO) regarding the review of the West Embankment seepage issues for the proposed Prosperity Gold-Copper Project",
+	"directoryID" : 635,
+	"parentID" : 329,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255062"),
+	"displayName" : "Federal Comments/Submissions",
+	"directoryID" : 350,
+	"parentID" : 2,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255063"),
+	"displayName" : "Letter dated April 29/09 from Mike Engelsjord (DFO) addressed to Nathaniel Amann-Blake (EAO) re comments on the proposed Prosperity Project",
+	"directoryID" : 351,
+	"parentID" : 350,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255064"),
+	"displayName" : "Letter dated April 23/09 from Phil Wong (EC) addressed to Nathaniel Amann-Blake re comments on the proposed Prosperity Project",
+	"directoryID" : 352,
+	"parentID" : 350,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255065"),
+	"displayName" : "Comments dated May 25/09 from Christie MacKinlay (HC) re Health Canada's comments on the proposed Prosperity project",
+	"directoryID" : 467,
+	"parentID" : 350,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255066"),
+	"displayName" : "Comments submitted by Environment Canada evaluation of the adequacy and technical merit of the application for an EA certificate",
+	"directoryID" : 503,
+	"parentID" : 350,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255067"),
+	"displayName" : "Comments submitted by Natural Resources Canada re the proposed Prosperity project",
+	"directoryID" : 506,
+	"parentID" : 350,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255068"),
+	"displayName" : "Comments submitted by the Department of Fisheries and Oceans (DFO) re the proposed Prosperity project",
+	"directoryID" : 507,
+	"parentID" : 350,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255069"),
+	"displayName" : "Transport Canada's Comments on the Adequacy of the Environmental Impact Statement for the Prosperity Gold-Copper Mine Project",
+	"directoryID" : 558,
+	"parentID" : 350,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025506a"),
+	"displayName" : "NRCan supplemental submission to the Federal Review Panel for the Prosperity-Copper Mine Project Review of the Environmental Impact Statement",
+	"directoryID" : 568,
+	"parentID" : 350,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025506b"),
+	"displayName" : "Comments submitted by the Department of Fisheries and Oceans (DFO) on July 22/09 addressed to Brian Battison (Taseko) re the proposed Prosperity project",
+	"directoryID" : 582,
+	"parentID" : 350,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025506c"),
+	"displayName" : "Document dated July 29/09 from Kathy McPherson (NRCan) providing a technical review of the environmental assessment tracking tables for the proposed Prosperity project",
+	"directoryID" : 594,
+	"parentID" : 350,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025506d"),
+	"displayName" : "Environment Canada comments of October 5, 2009 on Taseko Response to IR 3.1 Hydrology - Site Water Balance",
+	"directoryID" : 613,
+	"parentID" : 350,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025506e"),
+	"displayName" : "Environment Canada's Oct 22/09 response to Taseko re Hydrology",
+	"directoryID" : 619,
+	"parentID" : 350,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025506f"),
+	"displayName" : "Natural Resources Canada's Oct 16/09 response to Taseko re groundwater",
+	"directoryID" : 620,
+	"parentID" : 350,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255070"),
+	"displayName" : "Memo dated December 18, 2009 from Kathy McPherson (NRCan) to Dawn Slater (EAO) regarding comments on Taseko Response to IR 3.1 Hydrology: Site Water Balance for the proposed Prosperity Gold-Copper Project",
+	"directoryID" : 633,
+	"parentID" : 350,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255071"),
+	"displayName" : "Local Government Comments/Submissions",
+	"directoryID" : 372,
+	"parentID" : 2,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255072"),
+	"displayName" : "Comment dated April 17/09 from Mayor Kerry Cook addressed to Garry Alexander (EAO) re the proposed Prosperity Project",
+	"directoryID" : 373,
+	"parentID" : 372,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255073"),
+	"displayName" : "Pre-Application",
+	"directoryID" : 11,
+	"parentID" : 1,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255074"),
+	"displayName" : "EAO Generated Documents",
+	"directoryID" : 12,
+	"parentID" : 11,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255075"),
+	"displayName" : "Letter to the Chief Willie Alphonse and Councillors (Williams Lake Band) dated April 18/07 from Jean-Claude Bouchard (CEAA) regarding Prosperity Project",
+	"directoryID" : 13,
+	"parentID" : 12,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255076"),
+	"displayName" : "Section14 Order issued by Minister Penner dated Jun 22/08 for the Prosperity Gold/Copper Project",
+	"directoryID" : 14,
+	"parentID" : 12,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255077"),
+	"displayName" : "Section 14 Procedural order issued to Taseko Mines Ltd (Proponent) by Robin Junger (EAO) regarding the Prosperity Gold-Copper Project",
+	"directoryID" : 15,
+	"parentID" : 12,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255078"),
+	"displayName" : "Section15 Order issued by Minister Penner dated Jan 27/09 for the proposed Prosperity Gold/Copper Project",
+	"directoryID" : 68,
+	"parentID" : 12,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255079"),
+	"displayName" : "Section15 Order issued by Robin Junger dated Feb 4/09 for the proposed Prosperity Gold/Copper Project",
+	"directoryID" : 69,
+	"parentID" : 12,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025507a"),
+	"displayName" : "Letter dated Feb 5/09 from Garry Alexander (EAO) addressed to Brian Battison (Taseko) regarding the proposed Prosperity Gold/Copper Project",
+	"directoryID" : 70,
+	"parentID" : 12,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025507b"),
+	"displayName" : "Letter dated Feb 25/09 from Garry Alexander (EAO) addressed to Brian Battison (Taseko) regarding the evaluation of Taseko's Application",
+	"directoryID" : 71,
+	"parentID" : 12,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025507c"),
+	"displayName" : "Notices - News Releases",
+	"directoryID" : 16,
+	"parentID" : 11,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025507d"),
+	"displayName" : "Public Invited to comment on the Application Terms of Reference/EIS Guidelines (EIS Guidelines) for the proposed Prosperity Gold-Copper Project - Public comment period runs from Nov 3/08 to midnight Dec 3/08",
+	"directoryID" : 17,
+	"parentID" : 16,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025507e"),
+	"displayName" : "Application Terms of Reference/Information Requirements",
+	"directoryID" : 18,
+	"parentID" : 11,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025507f"),
+	"displayName" : "Draft Environmental Impact Statement Guidelines submitted by Taseko Mines Ltd (Proponent) dated October 2008.",
+	"directoryID" : 19,
+	"parentID" : 18,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255080"),
+	"displayName" : "Approved Application Terms of Reference/Environmental Impact Statement Guidelines for the Prosperity Gold-Copper Project",
+	"directoryID" : 67,
+	"parentID" : 18,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255081"),
+	"displayName" : "Public Comments/Submissions",
+	"directoryID" : 20,
+	"parentID" : 11,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255082"),
+	"displayName" : "Email dated Nov 4/08 from Dave Lauzon addressed to Steve Chapman (CEAA) regarding comments on the Prosperity Project",
+	"directoryID" : 21,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255083"),
+	"displayName" : "Letter dated Oct 30/08 from Andrew Thompson addressed to Garry Alexander (EAO) regarding comments on the Prosperity Project",
+	"directoryID" : 22,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255084"),
+	"displayName" : "Letter dated Nov 1/08 from Glen Holling addressed to Garry Alexander (EAO) regarding comments the Prosperity Project",
+	"directoryID" : 23,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255085"),
+	"displayName" : "Letter dated Nov 4/08 from Cindy Watt addressed to Gordon Campbell (Premier) regarding comments on the Prosperity Project",
+	"directoryID" : 24,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255086"),
+	"displayName" : "Letter dated Nov 6/08 from Ed Willson addressed to Garry Alexander (EAO) regarding comments on the Prosperity Project",
+	"directoryID" : 25,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255087"),
+	"displayName" : "Public comment dated Nov 7/08 from Dale Lefferson regarding comments on the Prosperity project",
+	"directoryID" : 26,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255088"),
+	"displayName" : "Public comment dated Nov 7/08 from Chris Dukelow regarding comments on the Prosperity project",
+	"directoryID" : 27,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255089"),
+	"displayName" : "Public comment dated Nov 7/08 from Merrill Allen regarding comments on the Prosperity project",
+	"directoryID" : 28,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025508a"),
+	"displayName" : "Public comment dated Nov 7/08 from Carol Satre regarding comments on the Prosperity project",
+	"directoryID" : 29,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025508b"),
+	"displayName" : "Letter dated Nov 6/08 from Sheila Mortensen addressed to Garry Alexander (EAO) regarding comments on the Prosperity Project",
+	"directoryID" : 32,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025508c"),
+	"displayName" : "Email dated Nov 15/08 from Chris Moore addressed to Garry Alexander (EAO) regarding comments on the Prosperity Project",
+	"directoryID" : 33,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025508d"),
+	"displayName" : "Letter dated Nov 9/08 from Dennis Christianson addressed to Garry Alexander (EAO) regarding comments on the Prosperity Project",
+	"directoryID" : 34,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025508e"),
+	"displayName" : "Email dated Nov 19/08 from Pat McGuire addressed to Garry Alexander (EAO) regarding comments on the Prosperity Project",
+	"directoryID" : 35,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025508f"),
+	"displayName" : "Email dated Nov 24/08 from George Colgate addressed to Steve Chapman (CEAA) regarding comments on the Prosperity Project",
+	"directoryID" : 36,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255090"),
+	"displayName" : "Letter dated Nov 20/08 from Peter VanderKraan addressed to Garry Alexander (EAO) regarding comments on the Prosperity Project",
+	"directoryID" : 37,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255091"),
+	"displayName" : "Email dated Nov 20/08 from Peter VanderKraan addressed to Steve Chapman (CEAA) regarding comments on the Prosperity Project",
+	"directoryID" : 38,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255092"),
+	"displayName" : "Letter dated Nov 12/08 from Bill Carruthers addressed to Garry Alexander (EAO) regarding comments on the Prosperity Project",
+	"directoryID" : 39,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255093"),
+	"displayName" : "Email dated Nov 20/08 from Patrick Lulua addressed to Garry Alexander (EAO) regarding comments on the Prosperity Project",
+	"directoryID" : 40,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255094"),
+	"displayName" : "Email dated Dec 2/08 from Fred Shandro addressed to Garry Alexander (EAO) regarding comments on the Prosperity Project",
+	"directoryID" : 45,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255095"),
+	"displayName" : "Letter dated Dec 2/08 from Jon Wolbers addressed to Steve Chapman (CEAA) regarding comments on the Prosperity Project",
+	"directoryID" : 49,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255096"),
+	"displayName" : "Letter dated Dec 2/08 from Fred McMechan addressed to Garry Alexander (EAO) and Steve Chapman (CEAA) regarding comments on the Prosperity Project",
+	"directoryID" : 50,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255097"),
+	"displayName" : "Email dated Dec 3/08 from Patricia Spencer addressed to Garry Alexander (EAO) regarding comments on the Prosperity Project",
+	"directoryID" : 55,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255098"),
+	"displayName" : "Letter dated Dec 3/08 from Ramsey Hart addressed to Garry Alexander (EAO) regarding comments on the Prosperity Project",
+	"directoryID" : 56,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255099"),
+	"displayName" : "Letter dated Nov 30/08 from David Milne addressed to Garry Alexander (EAO) and Steve Chapman (CEAA) regarding comments on the Prosperity Project",
+	"directoryID" : 57,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025509a"),
+	"displayName" : "Email dated Dec 3/08 from Shane Elzinga addressed to Garry Alexander (EAO) regarding comments on the Prosperity Project",
+	"directoryID" : 58,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025509b"),
+	"displayName" : "Email dated Dec 3/08 from Carla Glessing addressed to Garry Alexander (EAO) regarding comments on the Prosperity Project",
+	"directoryID" : 59,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025509c"),
+	"displayName" : "Email dated Dec 3/08 from Eva Foik addressed to Garry Alexander (EAO) regarding comments on the Prosperity Project",
+	"directoryID" : 60,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025509d"),
+	"displayName" : "Letter from Pierre Gratton (MABC) addressed to Garry Alexander (EAO) and Steve Chapman (CEAA) regarding comments on the Prosperity Project",
+	"directoryID" : 61,
+	"parentID" : 20,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025509e"),
+	"displayName" : "Provincial Govt Comments/Submissions",
+	"directoryID" : 30,
+	"parentID" : 11,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a0025509f"),
+	"displayName" : "Email dated Nov 6/08 from Roger Packham (MOE) addressed to Sara Wilson (EAO) regarding comments on the Prosperity Project",
+	"directoryID" : 31,
+	"parentID" : 30,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550a0"),
+	"displayName" : "Federal Comments/Submissions",
+	"directoryID" : 41,
+	"parentID" : 11,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550a1"),
+	"displayName" : "Email dated Nov 17/08 from Derek Nishimura (TC) addressed to Steve Chapman (CEAA) regarding comments on the Prosperity Project",
+	"directoryID" : 42,
+	"parentID" : 41,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550a2"),
+	"displayName" : "Letter dated October 2008 from Natural Resources Canada (NRCan) addressed to Garry Alexander (EAO) regarding comments on the Prosperity Project",
+	"directoryID" : 48,
+	"parentID" : 41,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550a3"),
+	"displayName" : "Proponent Comments/Correspondence",
+	"directoryID" : 43,
+	"parentID" : 11,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550a4"),
+	"displayName" : "Letter dated Nov 27/08 from Russell Hallbauer (Taseko) addressed to Garry Alexander (EAO) and Steve Chapman (CEAA) regarding comments on the Prosperity Project",
+	"directoryID" : 44,
+	"parentID" : 43,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550a5"),
+	"displayName" : "Taseko Mines Ltd (Proponent) responses to Public Comments submitted during the comment period on the Prosperity Project",
+	"directoryID" : 65,
+	"parentID" : 43,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550a6"),
+	"displayName" : "Taseko Mines Ltd responses to Working Group comments submitted during the comment period on the Prosperity Project",
+	"directoryID" : 66,
+	"parentID" : 43,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550a7"),
+	"displayName" : "Aboriginal Comments/Submissions",
+	"directoryID" : 46,
+	"parentID" : 11,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550a8"),
+	"displayName" : "Letter dated Dec 1/08 from Chief Ann Louie (Williams Lake Band) addressed to Steve Burgess (CEAA) regarding comments on the Prosperity Project",
+	"directoryID" : 47,
+	"parentID" : 46,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550a9"),
+	"displayName" : "Letter dated Dec 2/08 from Chief Charlene Belleau (Esketemc First Nation) addressed to Garry Alexander (EAO) and Steve Chapman (CEAA) regarding comments on the Prosperity Project",
+	"directoryID" : 51,
+	"parentID" : 46,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550aa"),
+	"displayName" : "Report dated October 2008 from the Canoe Creek First Nation addressed to Garry Alexander (EAO) regarding comments on the Prosperity Project",
+	"directoryID" : 52,
+	"parentID" : 46,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550ab"),
+	"displayName" : "Report dated August 2008 from the Canoe Creek First Nation addressed to Garry Alexander (EAO) regarding comments on the Prosperity Project",
+	"directoryID" : 53,
+	"parentID" : 46,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550ac"),
+	"displayName" : "Letter dated Dec 3/08 from Chief Charlene Belleau (Esketemc First Nation) addressed to Garry Alexander (EAO) and Steve Chapman (CEAA) regarding comments on the Prosperity Project",
+	"directoryID" : 54,
+	"parentID" : 46,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550ad"),
+	"displayName" : "Letter dated Dec 2/08 from Chief Francis Laceese (Toosey Indian Band) addressed to Garry Alexander (EAO) and Steve Chapman (CEAA) regarding comments on the Prosperity Project",
+	"directoryID" : 62,
+	"parentID" : 46,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550ae"),
+	"displayName" : "Letter dated Dec 2/08 from Stanley Stump (Chilcotin National Congress) addressed to Garry Alexander (EAO) and Steve Chapman (CEAA) regarding comments on the Prosperity Project",
+	"directoryID" : 63,
+	"parentID" : 46,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550af"),
+	"displayName" : "Letter dated Dec 2/08 from Chief Gerald Johnny (Anaham Indian Band) addressed to Garry Alexander (EAO) and Steve Chapman (CEAA) regarding comments on the Prosperity Project",
+	"directoryID" : 64,
+	"parentID" : 46,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550b0"),
+	"displayName" : "Local Government Comments/Submissions",
+	"directoryID" : 630,
+	"parentID" : 11,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550b1"),
+	"displayName" : "Letter dated December 2/08 from Jon Wolbers (Cariboo Regional District) to Garry Alexander (EAO) regarding support for the proposed Prosperity Gold-Copper Project",
+	"directoryID" : 631,
+	"parentID" : 630,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550b2"),
+	"displayName" : "Certificate Issued",
+	"directoryID" : 636,
+	"parentID" : 1,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550b3"),
+	"displayName" : "EA Certificate Documentation",
+	"directoryID" : 637,
+	"parentID" : 636,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550b4"),
+	"displayName" : "Prosperity Gold-Copper Project Recommendations of the Executive Director and Reasons for Recommendations dated December 17/09",
+	"directoryID" : 638,
+	"parentID" : 637,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550b5"),
+	"displayName" : "Assessment Report - Prosperity Gold-Copper Project",
+	"directoryID" : 639,
+	"parentID" : 637,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550b6"),
+	"displayName" : "Environmental Assessment Certificate M09-02 for the Prosperity Gold-Copper Project issued January 14, 2010",
+	"directoryID" : 640,
+	"parentID" : 637,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550b7"),
+	"displayName" : "Information Bulletin - Prosperity Gold-Copper Project",
+	"directoryID" : 641,
+	"parentID" : 637,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550b8"),
+	"displayName" : "Notices - News Releases",
+	"directoryID" : 642,
+	"parentID" : 636,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550b9"),
+	"displayName" : "Information Bulletin - Prosperity Gold-Copper Project",
+	"directoryID" : 643,
+	"parentID" : 642,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550ba"),
+	"displayName" : "Amendments",
+	"directoryID" : 647,
+	"parentID" : 1,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550bb"),
+	"displayName" : "Amendment - Application",
+	"directoryID" : 648,
+	"parentID" : 647,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550bc"),
+	"displayName" : "Project Description dated August 2011 for the New Prosperity Gold Copper Project submitted by Taseko Mines Limited",
+	"directoryID" : 649,
+	"parentID" : 648,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550bd"),
+	"displayName" : "EAO Generated Documents",
+	"directoryID" : 650,
+	"parentID" : 647,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550be"),
+	"displayName" : "Letter dated Nov 26/12 from Shelley Murphy (EAO) to Brian Battison (Taseko Mines) regarding the EA Amendment Procedures for Prosperity Nov 2012",
+	"directoryID" : 651,
+	"parentID" : 650,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550bf"),
+	"displayName" : "Certificate Extension",
+	"directoryID" : 652,
+	"parentID" : 1,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550c0"),
+	"displayName" : "EAO Generated Documents",
+	"directoryID" : 653,
+	"parentID" : 652,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550c1"),
+	"displayName" : "Letter dated Jul 18/14 from Shelley Murphy (EAO) to John McManus (Taseko Mines) regarding an Order for fees for the Prosperity Gold-Copper Project",
+	"directoryID" : 654,
+	"parentID" : 653,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550c2"),
+	"displayName" : "Order to pay fees under section 5 of the Fee Regulation dated Jul 21/14",
+	"directoryID" : 655,
+	"parentID" : 653,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550c3"),
+	"displayName" : "Letter dated Jul 14/14 from Shelley Murphy (EAO) to John McManus (Taseko) regarding request for a certificate extension for the Prosperity Gold-Copper Project",
+	"directoryID" : 662,
+	"parentID" : 653,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550c4"),
+	"displayName" : "Certificate Extension",
+	"directoryID" : 656,
+	"parentID" : 652,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550c5"),
+	"displayName" : "Reasons for Ministers Decision dated Jan 13/15",
+	"directoryID" : 657,
+	"parentID" : 656,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550c6"),
+	"displayName" : "Prosperity Certificate Extension Report Dec 2/14",
+	"directoryID" : 658,
+	"parentID" : 656,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550c7"),
+	"displayName" : "Extension under Section 18 signed Jan 13/15 regarding the Prosperity Gold-Copper Project",
+	"directoryID" : 659,
+	"parentID" : 656,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550c8"),
+	"displayName" : "Letter dated Jun 11/14 from John McManus (Taseko) to Doug Caul (EAO) requesting a certificate extension for the Prosperity Gold-Copper Project",
+	"directoryID" : 660,
+	"parentID" : 656,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550c9"),
+	"displayName" : "Information Bulletin dated Jan 14/15 regarding the Certificate Extension for the Prosperity Gold-Copper Project",
+	"directoryID" : 661,
+	"parentID" : 656,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550ca"),
+	"displayName" : "Pre-EA",
+	"directoryID" : 663,
+	"parentID" : 1,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550cb"),
+	"displayName" : "Application and Supporting Studies",
+	"directoryID" : 664,
+	"parentID" : 663,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550cc"),
+	"displayName" : "Prosperity BC EAC R.S.B.C 1996",
+	"directoryID" : 665,
+	"parentID" : 664,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550cd"),
+	"displayName" : "Aquatic Resources of Fish Lake, Fish Creek & Related Fish Habitat Compensation Sites. Originally posted 1995/06/30",
+	"directoryID" : 666,
+	"parentID" : 664,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550ce"),
+	"displayName" : "Safety, Hydrogeology & Mining Considerations for Fish Lake Open Pit Design. Originally posted 1995/06/30",
+	"directoryID" : 667,
+	"parentID" : 664,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550cf"),
+	"displayName" : "Taseko Mines Limited, Fish Lake Project - Economic Assessment of Alternate Waste Rock Storage Sites (prepared by KC Minty & Assoc Ltd for Proponent). Originally posted 1995/06/30",
+	"directoryID" : 668,
+	"parentID" : 664,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550d0"),
+	"displayName" : "Fish Lake Gold-Copper Project Consultation - Results from Open House Presentation - November 4, 1993 Originally posted 1995/06/30",
+	"directoryID" : 669,
+	"parentID" : 664,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550d1"),
+	"displayName" : "Pre-Application for a Mine Development Certificate. Originally posted 1995/06/30",
+	"directoryID" : 670,
+	"parentID" : 664,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550d2"),
+	"displayName" : "Prosperity Gold-Copper Project Taseko Mines Limited Geological and Geochemical Characterization of the Prosperity Deposit Progress Report 1. Originally Posted 1997/08/27",
+	"directoryID" : 671,
+	"parentID" : 664,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550d3"),
+	"displayName" : "EAO Generated Documents",
+	"directoryID" : 672,
+	"parentID" : 663,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550d4"),
+	"displayName" : "Prosperity BC EAC R.S.B.C 1996",
+	"directoryID" : 673,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550d5"),
+	"displayName" : "Fish Lake Gold-Copper Project - Public Advisory Committee Meeting Minutes of April 11, 1995 Meeting.",
+	"directoryID" : 674,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550d6"),
+	"displayName" : "RE: Finalized Minutes of Project Committee Meetings held on September 7 & 29, 1995 and June 25, 1997 As Noted Above, FAX of final meeting minutes for the Project Review Committee.",
+	"directoryID" : 675,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550d7"),
+	"displayName" : "Prosperity Gold-Copper Project - Project Committee Meeting #5 Minutes of the January 30, 1998 meeting held in Williams Lake BC.",
+	"directoryID" : 676,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550d8"),
+	"displayName" : "Prosperity Gold-Copper Project - Technical Subcommittee Meeting Notes July 1997 - January 1998 As noted above, Meeting Notes as follows: - July 16 & 17, 1997 Meetings of the Water Quality/ARD, Fish/Fish Habitat Compensation, and Transmission Corridor",
+	"directoryID" : 677,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550d9"),
+	"displayName" : "Open Letter to the Public - Public Notification of Issuance of Final Project Report Specifications for the Proposed Prosperity Gold-Copper Project pursuant to the EAA.",
+	"directoryID" : 678,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550da"),
+	"displayName" : "Project Report Specifications for the Taseko Mines Ltd. Prosperity Gold-Copper Project Copy of the Final Project Report Specifications (as noted above).",
+	"directoryID" : 679,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550db"),
+	"displayName" : "Report on Public Consultation Activities Held in Relation to the Review of the Prosperity Project During the Draft Project Specifications Stage As noted above, Report details activities related to Public Consultation for the Prosperity Gold-Copper project",
+	"directoryID" : 680,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550dc"),
+	"displayName" : "Transmission Corridor/Wildlife Subcommittee Meeting - May 22, 1998 DRAFT for Discussion Purposes - Approach for Mapping and Wildlife Interpretations of the Proposed Transmission Corridor - Option 6.",
+	"directoryID" : 681,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550dd"),
+	"displayName" : "E mail fr. N. Ringstad (EAO) to Prosperity Project Committee & Multiple Accounts Evaluation Subcommittee RE: Recently completed Prosperity Economic Sub-Group report on the comparison of Mine Development Options.",
+	"directoryID" : 682,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550de"),
+	"displayName" : "Minutes of Prosperity Project Economic Sub-Group Meeting #1 fr. N. Ringstad (EAO)",
+	"directoryID" : 683,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550df"),
+	"displayName" : "Prosperity Gold-Copper Project Fisheries Technical Subcommittee Meeting Minutes (June 10, 1999 2:00pm - 4:30pm)",
+	"directoryID" : 684,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550e0"),
+	"displayName" : "Prosperity Gold-Copper Project Fisheries Technical Subcommittee Meeting Minutes (June 23, 1999 11:10am - 4:45pm)",
+	"directoryID" : 685,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550e1"),
+	"displayName" : "Prosperity Project Joint Fisheries and Water Quality Technical Subcommittee Meeting (July 28, 1999)",
+	"directoryID" : 686,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550e2"),
+	"displayName" : "Transition Order 02-12 for the Prosperity Gold-Copper Project",
+	"directoryID" : 687,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550e3"),
+	"displayName" : "Prosperity Project Committee Meeting #4 Minutes, November 27, 1997",
+	"directoryID" : 688,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550e4"),
+	"displayName" : "Prosperity Project Committee Meeting #6 Minutes, April 1998",
+	"directoryID" : 689,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550e5"),
+	"displayName" : "Fish/Fish Habitat/Fish Compensation Technical Subcommittee Minutes - May 14, 1998",
+	"directoryID" : 690,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550e6"),
+	"displayName" : "Geotechnical-Fisheries Technical Subcommittee Minutes - Feb 19, 1998",
+	"directoryID" : 691,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550e7"),
+	"displayName" : "Transmission Corridor Technical Subcommittee Minutes - March 10, 1998",
+	"directoryID" : 692,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550e8"),
+	"displayName" : "Transmission Corridor Technical Subcommittee Minutes - May 22, 1998",
+	"directoryID" : 693,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550e9"),
+	"displayName" : "Water Quality/ ARD Technical Subcommittee Minutes - March 12, 1998",
+	"directoryID" : 694,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550ea"),
+	"displayName" : "Water Quality/ ARD Technical Subcommittee Minutes - March 17, 1998",
+	"directoryID" : 695,
+	"parentID" : 672,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550eb"),
+	"displayName" : "Federal Comments/Submissions",
+	"directoryID" : 696,
+	"parentID" : 663,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550ec"),
+	"displayName" : "Prosperity BC EAO R.S.B.C 1996",
+	"directoryID" : 697,
+	"parentID" : 696,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550ed"),
+	"displayName" : "Copy of Letter titled \"Fish Lake Gold-Copper Project\" sent by Brian Balfe of Canadian Coast Guard to Stephen Sheehan of Environment Canada regarding Waste Rock Disposal, Mines Access Road, and Water Intake & Power Supply.",
+	"directoryID" : 698,
+	"parentID" : 696,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550ee"),
+	"displayName" : "Fax letter and attachment Re: Fish Lake Project FAX from D. Paterson of DFO with 2 letters regarding the impact on fish stocks by the proposed Prosperity Project. Attachments as follows; - Letter dated June 6, 1996 from D.J. Copeland of Taseko Mines Ltd",
+	"directoryID" : 699,
+	"parentID" : 696,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550ef"),
+	"displayName" : "Local Government Comments/Submissions",
+	"directoryID" : 700,
+	"parentID" : 663,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550f0"),
+	"displayName" : "Prosperity BC EAO R.S.B.C 1996",
+	"directoryID" : 701,
+	"parentID" : 700,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550f1"),
+	"displayName" : "Notices - News Releases",
+	"directoryID" : 702,
+	"parentID" : 663,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550f2"),
+	"displayName" : "Prosperity BC EAO R.S.B.C 1996",
+	"directoryID" : 703,
+	"parentID" : 702,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550f3"),
+	"displayName" : "Public Comments/Submissions",
+	"directoryID" : 704,
+	"parentID" : 663,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550f4"),
+	"displayName" : "Prosperity BC EAO R.S.B.C 1996",
+	"directoryID" : 705,
+	"parentID" : 704,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550f5"),
+	"displayName" : "Proponent Comments/Correspondence",
+	"directoryID" : 706,
+	"parentID" : 663,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550f6"),
+	"displayName" : "Prosperity BC EAO R.S.B.C 1996",
+	"directoryID" : 707,
+	"parentID" : 706,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550f7"),
+	"displayName" : "fax copy and attachments to address - Environmental Wildlife Studies: Winter Program, letter discussing Taseko's current planning of winter program",
+	"directoryID" : 708,
+	"parentID" : 706,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550f8"),
+	"displayName" : "Fax letter & attachments to addressee, re: Summary Information on Dustfall Collection Program for Prosperity Project",
+	"directoryID" : 709,
+	"parentID" : 706,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550f9"),
+	"displayName" : "Fax memo with attachments Re: Prosperity Project Information, Limnology Studies",
+	"directoryID" : 710,
+	"parentID" : 706,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550fa"),
+	"displayName" : "Fax from Bruce Ford of Triton Environmental Consultants Ltd. to Maurice Lirette of MELP Re: Proposed study of the movement and numbers of spawners and juveniles in Fish Creek.",
+	"directoryID" : 711,
+	"parentID" : 706,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550fb"),
+	"displayName" : "FAX from Bruce Jenkins of Taseko Mines Ltd (Proponent) to Norm Ringstad of EAO FAX with Attachment of Table 6 - Summary of Hydrology Station Operations, 1992-1996 - PAGE 18 of Application (binder) Document #112 \"SUPPLEMENTAL INFORMATION\" - Added to Binder",
+	"directoryID" : 712,
+	"parentID" : 706,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550fc"),
+	"displayName" : "Re: Geological and Geochemical Characterization of the Prosperity Deposit, Progress Report No. 1 Draft Letter from the proponent to Norm Ringstad of EAO with regards to distribution of the draft report named above.",
+	"directoryID" : 713,
+	"parentID" : 706,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550fd"),
+	"displayName" : "re: Transmission Corridor Options for the Prosperity Gold Copper Project Cover Letter & Memo with attached maps sent by Shannon Shaw of Robertson Geoconsultants Inc (on behalf of Proponent) sent to David Johns of EAO regarding the issue of corridor option",
+	"directoryID" : 714,
+	"parentID" : 706,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550fe"),
+	"displayName" : "Letter fr. proponent to David Johns of EAO with regards to the EAO Alternatives Assessment Workshop",
+	"directoryID" : 715,
+	"parentID" : 706,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a002550ff"),
+	"displayName" : "Letter on behalf of proponent to Garry Alexander with regards to boundaries of TEM within mine site and appr. for mapping & wildlife interpretations",
+	"directoryID" : 716,
+	"parentID" : 706,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255100"),
+	"displayName" : "Report on Prosperity Project Committee Meeting June 25, 1997 (report from Proponent)",
+	"directoryID" : 717,
+	"parentID" : 706,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255101"),
+	"displayName" : "Provincial Govt Comments/Submissions",
+	"directoryID" : 718,
+	"parentID" : 663,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255102"),
+	"displayName" : "Prosperity BC EAO R.S.B.C 1996",
+	"directoryID" : 719,
+	"parentID" : 718,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255103"),
+	"displayName" : "Use of Standard Reference Materials for Quality Control int he Environmental Baseline Monitoring Program-Fish Lake Project Letter from Kris Andres of MELP-Cariboo Region to Hallam Knight & Piesold for the Proponent regarding the above listed issue.",
+	"directoryID" : 720,
+	"parentID" : 718,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("58f9844b0ccce44a00255104"),
+	"displayName" : "re: Prosperity copper/gold proposal - Review of Additional Fisheries Studies & Compensation Proposals Letter from Garry Alexander of MELP to David Copeland of Taseko Mines Ltd with attached results of MELP's collected fisheries data & information provided",
+	"directoryID" : 721,
+	"parentID" : 718,
+	"isPublished" : true
+}
+{
+	"_id" : ObjectId("595e9d683a04e0001926a7b4"),
+	"isPublished" : true,
+	"displayName" : "Aboriginal Comments/Submissions",
+	"parentID" : 647,
+	"directoryID" : 722
+}
+{
+	"_id" : ObjectId("595e9d7c4fef550019dd6cbb"),
+	"isPublished" : true,
+	"displayName" : "Proponent Comments/Correspondence",
+	"parentID" : 647,
+	"directoryID" : 723
+}

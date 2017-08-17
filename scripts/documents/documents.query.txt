@@ -1,0 +1,1 @@
+db.documents.find({project: ObjectId('58850ff6aaecd9001b808f88')},{parentID:1, directoryID:1, displayName: 1, isPublished:1} ).forEach(function(fldr) { printjson(fldr); })

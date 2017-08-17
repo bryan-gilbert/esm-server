@@ -1,0 +1,81 @@
+{
+	"_schemaName" : "Document",
+	"userCan" : {
+		"unPublish" : false,
+		"publish" : false,
+		"delete" : false,
+		"write" : false,
+		"read" : false
+	},
+	"isPublished" : true,
+	"delete" : [
+		"assessment-admin",
+		"project-intake",
+		"assessment-lead",
+		"assessment-team",
+		"project-epd",
+		"project-system-admin"
+	],
+	"write" : [
+		"assessment-admin",
+		"project-intake",
+		"assessment-lead",
+		"assessment-team",
+		"project-epd",
+		"project-system-admin"
+	],
+	"read" : [
+		"assessment-admin",
+		"project-intake",
+		"assessment-lead",
+		"assessment-team",
+		"assistant-dm",
+		"project-epd",
+		"assistant-dmo",
+		"associate-dm",
+		"associate-dmo",
+		"compliance-lead",
+		"compliance-officer",
+		"project-system-admin",
+		"public"
+	],
+	"internalSize" : 0.124729,
+	"internalExt" : ".pdf",
+	"internalMime" : "application/pdf",
+	"internalName" : "p6\\1133198960265_7c0858eba4fc421d8bcae38ffc44adfe.pdf",
+	"internalOriginalName" : "p6\\1133198960265_7c0858eba4fc421d8bcae38ffc44adfe.pdf",
+	"internalURL" : "/uploads/etl/prosperity-gold-copper/1133198960265_7c0858eba4fc421d8bcae38ffc44adfe.pdf",
+	"documentType" : "",
+	"documentAuthor" : "someone",
+	"documentSource" : "",
+	"documentIsLatestVersion" : true,
+	"documentVersion" : 0,
+	"documentFileFormat" : "%documentFileFormat%",
+	"documentFileSize" : "%documentFileFormat%",
+	"documentFileURL" : "%documentFileURL%",
+	"documentFileName" : "%documentFileName%",
+	"documentEPICProjectId" : %documentEPICProjectId%,
+	"dateReceived"      : {"$date": "2016-04-26T08:00:00.000-0700" },
+	"datePosted"        : {"$date": "2016-04-26T08:00:00.000-0700" },
+	"dateUploaded"      : {"$date": "2016-04-26T08:00:00.000-0700" },
+	"dateUpdated" : null,
+	"dateAdded" : null,
+	"description" : "",
+	"displayName" : "Prosperity Gold Project Time Limit Extension Order, dated October 21/05 and signed by Joan Hesketh (Executive Director, EAO)",
+	"directoryID" : 4,
+	"project" : ObjectId("58850ff6aaecd9001b808f88"),
+	"publish" : [
+		"assessment-admin",
+		"assessment-lead",
+		"assessment-team",
+		"project-epd",
+		"project-system-admin"
+	],
+	"unPublish" : [
+		"assessment-admin",
+		"assessment-lead",
+		"assessment-team",
+		"project-epd",
+		"project-system-admin"
+	]
+}
