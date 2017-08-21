@@ -7,7 +7,9 @@ angular.module('documents')
 		scope: {
 			files: '=',
 			folders: '=',
-			deleteCallback: '='
+			project: '=',
+			successCallback: '=',
+			errorCallback: '='
 		},
 		link: function (scope, element, attrs) {
 			element.on('click', function () {
@@ -16,7 +18,7 @@ angular.module('documents')
 		}
 	};
 }])
-.service('ConfirmDeleteService', ['$rootScope', '$modal', '_', '$timeout', function ($rootScope, $modal, _, $timeout) {
+.service('ConfirmDeleteService', ['$rootScope', '$modal', '_', '$timeout', 'DeleteService', 'AlertService', function ($rootScope, $modal, _, $timeout, DeleteService, AlertService) {
 	var service = this;
 	service.confirmDialog = function(scope) {
 		return new Promise(function(fulfill, reject) {
@@ -29,6 +31,7 @@ angular.module('documents')
 					var self = this;
 					self.busy = true;
 
+					console.log(' $scope',  $scope);
 					// TODO  remove this before PR.
 					var fakeChildren = false;
 
@@ -40,13 +43,15 @@ angular.module('documents')
 					 */
 					self.testServerAPI = false;
 
-					// caller may have batch or single file
-					self.deleteCallback = scope.deleteCallback;
+					self.project = scope.project;
+					self.successCallback = scope.successCallback;
+					self.errorCallback = scope.errorCallback;
 					self.submit = submit;
 					self.cancel = cancel;
 					init();
 
 					// collect deletable folders and files
+					// caller may have batch or single file
 					function collect(items) {
 						if (!items ) {
 							return [];
@@ -73,7 +78,6 @@ angular.module('documents')
 										fClone.hasChildren ? "Folders with content can't be deleted" : ""
 								);
 							}
-							fakeChildren = !fakeChildren;/// alternating folders will pretend to have children
 							return fClone;
 						});
 						return results;
@@ -105,12 +109,12 @@ angular.module('documents')
 							self.confirmText = confirmText + " " + warning + " " + undeletableFiles;
 							self.showSubmit = true;
 							self.cancelText = 'No';
+							self.successText = combinedText + ' successfully deleted.'
 						} else {
 							if (self.testServerAPI) {
 								self.title = "Confirm Delete API Testing";
 								self.showSubmit = true;
 								self.cancelText = 'cancel';
-
 							} else {
 								self.title = "Can't Delete Anything";
 								self.showSubmit = false;
@@ -136,200 +140,80 @@ angular.module('documents')
 						}
 						var folders = self.testServerAPI ? self.folders : self.deletableFolders;
 						var files = self.testServerAPI ? self.files : self.deletableFiles;
-
-						self.deleteCallback(folders,files)
+						DeleteService.deleteFilesAndDirs(folders,files, self.project)
 						.then(function (result) {
-							self.busy = false
+							self.busy = false;
+							console.log('success result', result);
+							AlertService.success(self.successText);
 							$modalInstance.close(result);
+							if (self.successCallback) { self.successCallback(); }
 						}, function (err) {
+							console.log("error from delete", err)
+							var msg;
+							if (err.data && err.data.messsage && Array.isArray(err.data.message)) {
+								var docs = err.data.message
+							}
 							self.busy = false
-							self.errMsg = err.message;
+							AlertService.error(err.message);
 							$scope.$apply();
+							if (self.errorCallback) { self.errorCallback(); }
 						});
 					}
 				}
 			});
 		});
 	};
-}]);
+}])
+.service('DeleteService', ['Document', 'DocumentMgrService', function (Document, DocumentMgrService) {
+	var service = this;
+	service.deleteFilesAndDirs = deleteFilesAndDirs;
 
-/*
-
-function deleteDir(doc) {
-	self.busy = true;
-	return DocumentMgrService.removeDirectory($scope.project, doc)
-	.then(function (result) {
-		$scope.project.directoryStructure = result.data;
-		$scope.$broadcast('documentMgrRefreshNode', {directoryStructure: result.data});
-		self.busy = false;
-		AlertService.success('The selected folder was deleted.');
-	}, function(docs) {
-		var msg = "";
-		var theDocs = [];
-		if (docs.data.message && docs.data.message[0] && docs.data.message[0].documentFileName) {
-			_.each(docs.data.message, function (d) {
-				theDocs.push(d.documentFileName);
-			});
-			msg = 'This action cannot be completed as the following documents are in the folder: ' + theDocs + '.';
-		} else {
-			msg = "Could not delete folder, there are still files in the folder.";
-		}
-
-		$log.error('DocumentMgrService.removeDirectory error: ', msg);
-		self.busy = false;
-		AlertService.error(msg);
-	});
-};
-
-function deleteFile(doc) {
-	self.busy = true;
-	return self.deleteDocument(doc._id)
-	.then(function(result) {
-		self.selectNode(self.currentNode.model.id); // will mark as not busy...
-		var name = doc.displayName || doc.documentFileName || doc.internalOriginalName;
-		AlertService.success('Delete File', 'The selected file was deleted.');
-	}, function(error) {
-		$log.error('deleteFile error: ', JSON.stringify(error));
-		self.busy = false;
-		AlertService.error('The selected file could not be deleted.');
-	});
-};
-
-function deleteFilesAndDirs(deletableFolders, deletableFiles) {
-	self.busy = true;
-
-	var dirPromises = _.map(deletableFolders, function(d) {
-		return DocumentMgrService.removeDirectory($scope.project, d);
-	});
-
-	var filePromises = _.map(deletableFiles, function(f) {
-		return self.deleteDocument(f._id);
-	});
-
-	var directoryStructure;
-	return Promise.all(dirPromises)
-	.then(function(result) {
-		console.log("Delete folders result", result)
-		//$log.debug('Dir results ', JSON.stringify(result));
-		if (!_.isEmpty(result)) {
-			var last = _.last(result);
-			directoryStructure = last.data;
-		}
-		return Promise.all(filePromises);
-	})
-	.then(function(result) {
-		//$log.debug('File results ', JSON.stringify(result));
-		if (directoryStructure) {
-			//$log.debug('Setting the new directory structure...');
-			$scope.project.directoryStructure = directoryStructure;
-			$scope.$broadcast('documentMgrRefreshNode', { directoryStructure: directoryStructure });
-		}
-		//$log.debug('Refreshing current directory...');
-		self.selectNode(self.currentNode.model.id);
-		self.busy = false;
-		AlertService.success('The selected items were deleted.');
-	}, function(err) {
-		console.log("err result", err)
-		self.busy = false;
-		AlertService.error('The selected items could not be deleted.');
-	});
-};
-
-*/
-
-/*
-self.deleteSelected = {
-	titleText: 'Delete File(s)',
-	okText: 'Yes',
-	cancelText: 'No',
-	ok: function() {
-		var dirs = _.size(self.checkedDirs);
-		var files = _.size(self.checkedFiles);
-		if (dirs === 0 && files === 0) {
-			return Promise.resolve();
-		} else {
-			$timeout(doDelete, 10);
-			return Promise.resolve();
-		}
-		// do the work ....
-		// function doDelete() {
-		// 	self.busy = true;
-		//
-		// 	var dirPromises = _.map(self.deleteSelected.deleteableFolders, function(d) {
-		// 		return DocumentMgrService.removeDirectory($scope.project, d);
-		// 	});
-		//
-		// 	var filePromises = _.map(self.deleteSelected.deleteableFiles, function(f) {
-		// 		return self.deleteDocument(f._id);
-		// 	});
-		//
-		// 	var directoryStructure;
-		// 	return Promise.all(dirPromises)
-		// 		.then(function(result) {
-		// 			//$log.debug('Dir results ', JSON.stringify(result));
-		// 			if (!_.isEmpty(result)) {
-		// 				var last = _.last(result);
-		// 				directoryStructure = last.data;
-		// 			}
-		// 			return Promise.all(filePromises);
-		// 		})
-		// 		.then(function(result) {
-		// 			//$log.debug('File results ', JSON.stringify(result));
-		// 			if (directoryStructure) {
-		// 				//$log.debug('Setting the new directory structure...');
-		// 				$scope.project.directoryStructure = directoryStructure;
-		// 				$scope.$broadcast('documentMgrRefreshNode', { directoryStructure: directoryStructure });
-		// 			}
-		// 			//$log.debug('Refreshing current directory...');
-		// 			self.selectNode(self.currentNode.model.id);
-		// 			self.busy = false;
-		// 			AlertService.success('The selected items were deleted.');
-		// 		}, function(err) {
-		// 			self.busy = false;
-		// 			AlertService.error('The selected items could not be deleted.');
-		// 		});
-		// }
-	},
-	cancel: undefined,
-	confirmText:  'Are you sure you want to delete the selected item(s)?',
-	confirmItems: [],
-	deleteableFolders: [],
-	deleteableFiles: [],
-	setContext: function() {
-		self.deleteSelected.confirmItems = [];
-		self.deleteSelected.titleText = 'Delete selected';
-		self.deleteSelected.confirmText = 'Are you sure you want to delete the following the selected item(s)?';
-		var dirs = _.size(self.checkedDirs);
-		var files = _.size(self.checkedFiles);
-		if (dirs > 0 && files > 0) {
-			self.deleteSelected.titleText = 'Delete Folder(s) and File(s)';
-			self.deleteSelected.confirmText = 'Are you sure you want to delete the following ('+ dirs +') folders and ('+ files +') files?';
-		} else if (dirs > 0) {
-			self.deleteSelected.titleText = 'Delete Folder(s)';
-			self.deleteSelected.confirmText = 'Are you sure you want to delete the following ('+ dirs +') selected folders?';
-		} else if (files > 0) {
-			self.deleteSelected.titleText = 'Delete File(s)';
-			self.deleteSelected.confirmText = 'Are you sure you want to delete the following ('+ files +') selected files?';
-		}
-
-		self.deleteSelected.confirmItems = [];
-		self.deleteSelected.deleteableFolders = [];
-		self.deleteSelected.deleteableFiles = [];
-
-		_.each(self.checkedDirs, function(o) {
-			if ($scope.project.userCan.manageFolders) {
-				self.deleteSelected.confirmItems.push(o.model.name);
-				self.deleteSelected.deleteableFolders.push(o);
+	function deleteDocument(documentID) {
+		return Document.lookup(documentID)
+		.then( function (doc) {
+			return Document.getProjectDocumentVersions(doc._id);
+		})
+		.then( function (docs) {
+			// Are there any prior versions?  If so, make them the latest and then delete
+			// otherwise delete
+			if (docs.length > 0) {
+				return Document.makeLatestVersion(docs[docs.length-1]._id);
+			} else {
+				return null;
 			}
+		})
+		.then( function () {
+			// Delete it from the system.
+			return Document.deleteDocument(documentID);
 		});
-		_.each(self.checkedFiles, function(o) {
-			if (o.userCan.delete) {
-				var name = o.displayName || o.documentFileName || o.internalOriginalName;
-				self.deleteSelected.confirmItems.push(name);
-				self.deleteSelected.deleteableFiles.push(o);
-			}
-		});
-
 	}
-};
-*/
+
+	function deleteFilesAndDirs(deletableFolders, deletableFiles, project) {
+		self.busy = true;
+
+		var dirPromises = _.map(deletableFolders, function(d) {
+			return DocumentMgrService.removeDirectory(project, d);
+		});
+
+		var filePromises = _.map(deletableFiles, function(f) {
+			return deleteDocument(f._id);
+		});
+
+		var directoryStructure;
+		return Promise.all(dirPromises)
+		.then(function(result) {
+			console.log("Delete folders result", result)
+			if (!_.isEmpty(result)) {
+				var last = _.last(result);
+				directoryStructure = last.data;
+			}
+			return Promise.all(filePromises);
+		})
+		// .then(function(result) {
+		// 	if (directoryStructure) {
+		// 		// $scope.project.directoryStructure = directoryStructure;
+		// 		//$scope.$broadcast('documentMgrRefreshNode', { directoryStructure: directoryStructure });
+		// 	}
+		// });
+	}
+}]);

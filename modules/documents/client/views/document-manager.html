@@ -54,7 +54,8 @@
 						<a title="Delete"
 						   ng-hide="documentMgr.deleteSelected.confirmItems.length === 0"
 						   x-confirm-delete
-               x-delete-callback="documentMgr.deleteFilesAndDirs"
+						   x-project="project"
+						   x-success-callback="documentMgr.successDelete"
                x-folders="documentMgr.checkedDirs"
                x-files="documentMgr.checkedFiles">
               <span class="glyphicon glyphicon-trash"></span> Delete</a>
@@ -206,7 +207,8 @@
 											<li ng-if="project.userCan.manageFolders">
 												<button class="btn icon-btn" title="Delete Folder" ng-click="$event.stopPropagation();"
                           x-confirm-delete
-                          x-delete-callback="documentMgr.deleteFilesAndDirs"
+                          x-project="project"
+                          x-success-callback="documentMgr.successDelete"
                           x-folders="doc"
                         >
 													<span class="glyphicon glyphicon-trash"></span>
@@ -320,7 +322,8 @@
 											<li ng-if="doc.userCan.delete">
 												<button class="btn icon-btn" title="Delete File" ng-click="$event.stopPropagation();"
                           x-confirm-delete
-                          x-delete-callback="documentMgr.deleteFilesAndDirs"
+                          x-project="project"
+                          x-success-callback="documentMgr.successDelete"
                           x-files="doc"
                         >
 													<span class="glyphicon glyphicon-trash"></span>
@@ -394,7 +397,8 @@
 									<a title="Delete File"
 									   ng-click="$event.stopPropagation();"
                      x-confirm-delete
-                     x-delete-callback="documentMgr.deleteFilesAndDirs"
+                     x-project="project"
+                     x-success-callback="documentMgr.successDelete"
                      x-files="documentMgr.infoPanel.data">
                     <span class="glyphicon glyphicon-trash"></span> Delete</a>
 								</li>
