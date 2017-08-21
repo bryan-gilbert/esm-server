@@ -435,43 +435,43 @@ angular.module('documents')
 							return Promise.resolve();
 						}
 						// do the work ....
-						function doDelete() {
-							self.busy = true;
-
-							var dirPromises = _.map(self.deleteSelected.deleteableFolders, function(d) {
-								return DocumentMgrService.removeDirectory($scope.project, d);
-							});
-
-							var filePromises = _.map(self.deleteSelected.deleteableFiles, function(f) {
-								return self.deleteDocument(f._id);
-							});
-
-							var directoryStructure;
-							return Promise.all(dirPromises)
-								.then(function(result) {
-									//$log.debug('Dir results ', JSON.stringify(result));
-									if (!_.isEmpty(result)) {
-										var last = _.last(result);
-										directoryStructure = last.data;
-									}
-									return Promise.all(filePromises);
-								})
-								.then(function(result) {
-									//$log.debug('File results ', JSON.stringify(result));
-									if (directoryStructure) {
-										//$log.debug('Setting the new directory structure...');
-										$scope.project.directoryStructure = directoryStructure;
-										$scope.$broadcast('documentMgrRefreshNode', { directoryStructure: directoryStructure });
-									}
-									//$log.debug('Refreshing current directory...');
-									self.selectNode(self.currentNode.model.id);
-									self.busy = false;
-									AlertService.success('The selected items were deleted.');
-								}, function(err) {
-									self.busy = false;
-									AlertService.error('The selected items could not be deleted.');
-								});
-						}
+						// function doDelete() {
+						// 	self.busy = true;
+						//
+						// 	var dirPromises = _.map(self.deleteSelected.deleteableFolders, function(d) {
+						// 		return DocumentMgrService.removeDirectory($scope.project, d);
+						// 	});
+						//
+						// 	var filePromises = _.map(self.deleteSelected.deleteableFiles, function(f) {
+						// 		return self.deleteDocument(f._id);
+						// 	});
+						//
+						// 	var directoryStructure;
+						// 	return Promise.all(dirPromises)
+						// 		.then(function(result) {
+						// 			//$log.debug('Dir results ', JSON.stringify(result));
+						// 			if (!_.isEmpty(result)) {
+						// 				var last = _.last(result);
+						// 				directoryStructure = last.data;
+						// 			}
+						// 			return Promise.all(filePromises);
+						// 		})
+						// 		.then(function(result) {
+						// 			//$log.debug('File results ', JSON.stringify(result));
+						// 			if (directoryStructure) {
+						// 				//$log.debug('Setting the new directory structure...');
+						// 				$scope.project.directoryStructure = directoryStructure;
+						// 				$scope.$broadcast('documentMgrRefreshNode', { directoryStructure: directoryStructure });
+						// 			}
+						// 			//$log.debug('Refreshing current directory...');
+						// 			self.selectNode(self.currentNode.model.id);
+						// 			self.busy = false;
+						// 			AlertService.success('The selected items were deleted.');
+						// 		}, function(err) {
+						// 			self.busy = false;
+						// 			AlertService.error('The selected items could not be deleted.');
+						// 		});
+						// }
 					},
 					cancel: undefined,
 					confirmText:  'Are you sure you want to delete the selected item(s)?',
@@ -514,6 +514,46 @@ angular.module('documents')
 						});
 
 					}
+				};
+
+				self.deleteFilesAndDirs = function(deletableFolders, deletableFiles) {
+					self.busy = true;
+
+					var dirPromises = _.map(deletableFolders, function(d) {
+						return DocumentMgrService.removeDirectory($scope.project, d);
+					});
+
+					var filePromises = _.map(deletableFiles, function(f) {
+						return self.deleteDocument(f._id);
+					});
+
+					var directoryStructure;
+					return Promise.all(dirPromises)
+					.then(function(result) {
+						console.log("Delete folders result", result)
+						//$log.debug('Dir results ', JSON.stringify(result));
+						if (!_.isEmpty(result)) {
+							var last = _.last(result);
+							directoryStructure = last.data;
+						}
+						return Promise.all(filePromises);
+					})
+					.then(function(result) {
+						//$log.debug('File results ', JSON.stringify(result));
+						if (directoryStructure) {
+							//$log.debug('Setting the new directory structure...');
+							$scope.project.directoryStructure = directoryStructure;
+							$scope.$broadcast('documentMgrRefreshNode', { directoryStructure: directoryStructure });
+						}
+						//$log.debug('Refreshing current directory...');
+						self.selectNode(self.currentNode.model.id);
+						self.busy = false;
+						AlertService.success('The selected items were deleted.');
+					}, function(err) {
+						console.log("err result", err)
+						self.busy = false;
+						AlertService.error('The selected items could not be deleted.');
+					});
 				};
 
 				self.publishFiles = function(files) {
