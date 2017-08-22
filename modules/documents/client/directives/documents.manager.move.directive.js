@@ -58,6 +58,16 @@ angular.module('documents')
 							self.currentFiles = [];
 							self.currentDirs = [];
 
+							var d = _.find($scope.moveSelected.moveableFiles, function (doc) {
+								return doc.isPublished;
+							});
+							var f = _.find($scope.moveSelected.moveableFolders, function (fld) {
+								return fld.model.folderObj.isPublished;
+							});
+							self.movingPublishedContent = !!(d || f);
+							console.log("self.movingPublishedContent ",self.movingPublishedContent );
+
+
 							self.sortBy = function (column) {
 								//is this the current column?
 								if (self.sorting.column.toLowerCase() === column.toLowerCase()) {
@@ -176,6 +186,9 @@ angular.module('documents')
 								self.unsortedDirs = [];
 								self.currentFiles = [];
 								self.currentDirs = [];
+
+								self.targetDirectoryIsPublished = self.currentNode.model.folderObj.isPublished;
+								console.log("self.targetDirectoryIsPublished", self.targetDirectoryIsPublished);
 
 								//$log.debug('currentNode (' + self.currentNode.model.name + ') get documents...');
 								DocumentMgrService.getDirectoryDocuments($scope.project, self.currentNode.model.id)
