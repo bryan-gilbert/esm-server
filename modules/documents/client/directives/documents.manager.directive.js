@@ -422,7 +422,7 @@ angular.module('documents')
 					var directoryStructure;
 					return Promise.all(dirPromises)
 					.then(function(result) {
-						console.log("Delete folders result", result)
+						console.log("Delete folders result", result);
 						//$log.debug('Dir results ', JSON.stringify(result));
 						if (!_.isEmpty(result)) {
 							var last = _.last(result);
@@ -442,7 +442,7 @@ angular.module('documents')
 						self.busy = false;
 						AlertService.success('The selected items were deleted.');
 					}, function(err) {
-						console.log("err result", err)
+						console.log("err result", err);
 						self.busy = false;
 						AlertService.error('The selected items could not be deleted.');
 					});

@@ -93,8 +93,8 @@ angular.module('documents')
 								self.hasBlockedContent = true;
 								self.bannerText = "Some content has been published. Content MUST be unpublished before it can be deleted";
 							}
-							var fText            = fileCnt > 1 ? "Files" : fileCnt == 1 ? "File" : "";
-							var fldrText         = folderCnt > 1 ? "Folders" : folderCnt == 1 ? "Folder" : "";
+							var fText            = fileCnt > 1 ? "Files" : fileCnt === 1 ? "File" : "";
+							var fldrText         = folderCnt > 1 ? "Folders" : folderCnt === 1 ? "Folder" : "";
 							var combinedText     = fText + ((fText && fldrText) ? " and " : "") + fldrText;
 							var confirmText      = 'Are you sure you want to permanently delete the following ' + combinedText + '?';
 							var warning          = 'This action CANNOT be undone.';
