@@ -24,6 +24,7 @@ angular.module('documents')
 				animation: true,
 				templateUrl: 'modules/documents/client/views/partials/modal-document-confirm-delete.html',
 				resolve: {},
+				size: 'lg',
 				controllerAs: 'confirmDlg',
 				controller: function ($scope, $modalInstance) {
 					var self = this;
@@ -54,7 +55,7 @@ angular.module('documents')
 								// clone has f.isPublished and f.displayName
 								fClone.userCanPublish = item.userCan.publish;
 								fClone.hasChildren    = false;
-								fClone.type           = ['png','jpg','jpeg'].includes(fClone.internalExt) ? 'Picture' : 'File';
+								fClone.type           = ['png','jpg','jpeg'].indexOf(fClone.internalExt) > -1 ? 'Picture' : 'File';
 							} else {
 								fClone.userCanPublish = item.model.folderObj.userCan.publish;
 								fClone.hasChildren    = false;// TODO in future ... do magic to count children;
@@ -65,8 +66,8 @@ angular.module('documents')
 							if (!fClone.canBeDeleted) {
 								fClone.reason = (
 									!fClone.userCanPublish  ? "Not authorized to delete" :
-									fClone.isPublished      ? "Published content can't be deleted" :
-									fClone.hasChildren      ? "Folders with content can't be deleted" : ""
+									fClone.isPublished      ? "Published content won't be deleted" :
+									fClone.hasChildren      ? "Folders with content won't be deleted" : ""
 								);
 							}
 							return fClone;
@@ -96,9 +97,9 @@ angular.module('documents')
 							var fText            = fileCnt > 1 ? "Files" : fileCnt === 1 ? "File" : "";
 							var fldrText         = folderCnt > 1 ? "Folders" : folderCnt === 1 ? "Folder" : "";
 							var combinedText     = fText + ((fText && fldrText) ? " and " : "") + fldrText;
-							var confirmText      = 'Are you sure you want to permanently delete the following ' + combinedText + '?';
+							var confirmText      = 'Are you sure you want to permanently delete the following ' + combinedText.toLowerCase() + '?';
 							var warning          = 'This action CANNOT be undone.';
-							var undeletableText  = 'Any content showing a warning will not deleted.';
+							var undeletableText  = 'Any content showing a warning will not be deleted.';
 							self.title           = "Confirm Delete " + combinedText;
 							self.confirmText     = confirmText + " " + warning + " " + undeletableText;
 							self.showSubmit      = true;
@@ -111,9 +112,11 @@ angular.module('documents')
 								self.cancelText = 'cancel';
 
 							} else {
-								self.title      = "Can't Delete Anything";
+								self.title      = "Published content can't be deleted";
 								self.showSubmit = false;
 								self.cancelText = 'OK';
+								self.hasBlockedContent = true;
+								self.bannerText = "Content MUST be unpublished before it can be deleted";
 							}
 						}
 						self.busy = false;
