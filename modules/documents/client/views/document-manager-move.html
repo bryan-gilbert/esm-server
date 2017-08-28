@@ -8,7 +8,7 @@
 <div class="modal-body">
 
 	<!-- Prompt -->
-	<div class="m-b-2" ng-if="moveDlg.view === 'select'">Select a Destination Folder</div>
+	<div class="m-b-2" ng-if="moveDlg.view === 'select'">{{moveDlg.selectPromptText}}</div>
 
 	<!-- Confirmation Prompt & Alert -->
 	<div class="m-b-2" ng-if="moveDlg.view === 'move'">
@@ -20,11 +20,11 @@
 	<div class="file-browser">
 		<div class="fb-header" ng-if="moveDlg.view === 'select'">
 			<div class="fb-header-path">
-				<div class="fb-path" 
-					ng-class="{'root':node.model.name == 'ROOT'}" 
+				<div class="fb-path"
+					ng-class="{'root':node.model.name == 'ROOT'}"
 					ng-repeat="node in moveDlg.currentPath">
 					<span class="fb-path-arrow" ng-if="node.model.name != 'ROOT'">&rsaquo;</span>
-					<button class="btn icon-btn" title="{{ node.model.folderObj.displayName }}" 
+					<button class="btn icon-btn" title="{{ node.model.folderObj.displayName }}"
 						ng-click="moveDlg.view === 'select' && moveDlg.selectNode(node.model.id)">
 						<i class="glyphicon glyphicon glyphicon-home" ng-if="node.model.name == 'ROOT'"></i>
 						<span class="btn-txt" ng-if="node.model.name != 'ROOT'">{{ node.model.folderObj.displayName }}</span>
@@ -44,7 +44,7 @@
 
 		<div id="fbBody" class="fb-body">
 			<div class="fb-list">
-				
+
 				<!-- Load the File/Folder Directory -->
 				<div class="spinner-container" ng-show="moveDlg.busy" ng-animate>
 					<div class="spinner-new rotating"></div>
@@ -65,8 +65,8 @@
 
 				<div class="scroll-container">
 					<div class="scroll-container-inner">
-						
-						<div class="empty-directory-msg" 
+
+						<div class="empty-directory-msg"
 							ng-if="moveDlg.view === 'select' && moveDlg.currentDirs.length == 0 && moveDlg.currentFiles.length == 0">
 							This folder is empty.
 						</div>
@@ -75,9 +75,9 @@
 						<div ng-if="moveDlg.view === 'select'">
 							<!-- Folders -->
 							<ul>
-								<li class="fb-list-item" 
-									ng-class="{'selected': doc.selected, 'disabled': doc.sourceDir}" 
-									ng-repeat="doc in moveDlg.currentDirs">	
+								<li class="fb-list-item"
+									ng-class="{'selected': doc.selected, 'disabled': doc.sourceDir || doc.disabled}"
+									ng-repeat="doc in moveDlg.currentDirs">
 									<span class="fb-col-group"
 										ng-if="!doc.sourceDir"
 										ng-click="$event.originalEvent.dropdown || moveDlg.openDir(doc)">
@@ -136,8 +136,9 @@
 							<!-- Folders -->
 							<ul>
 
-								<!-- TODO!!! If attempting to move published items into an unpublished directory use 'ng-class' to set 'disabled' -->
-								<li class="fb-list-item" title="{{doc.model.name}}" ng-repeat="doc in moveSelected.moveableFolders">
+								<li class="fb-list-item" title="{{doc.model.name}}"
+                    ng-class="{disabled : !moveDlg.targetDirectoryIsPublished && doc.model.folderObj.isPublished}"
+                    ng-repeat="doc in moveSelected.moveableFolders">
 									<span class="col name-col first-col">
 										<span class="avatar">
 											<span class="fb-folder glyphicon glyphicon-folder-close"></span>
@@ -155,8 +156,9 @@
 							<!-- Files -->
 							<ul>
 
-								<!-- TODO!!! If attempting to move published items into an unpublished directory use 'ng-class' to set 'disabled' -->
-								<li class="fb-list-item" ng-repeat="doc in moveSelected.moveableFiles">
+								<li class="fb-list-item"
+                    ng-class="{disabled : !moveDlg.targetDirectoryIsPublished && doc.isPublished}"
+                    ng-repeat="doc in moveSelected.moveableFiles">
 									<span class="col name-col first-col" title="{{ doc.displayName | removeExtension }}">
 										<span class="avatar">
 											<span class="fb-file glyphicon glyphicon-file" ng-if="!['png','jpg','jpeg'].includes(doc.internalExt)"></span>

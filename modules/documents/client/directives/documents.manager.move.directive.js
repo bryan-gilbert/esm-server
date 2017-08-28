@@ -58,14 +58,15 @@ angular.module('documents')
 							self.currentFiles = [];
 							self.currentDirs = [];
 
-							var d = _.find($scope.moveSelected.moveableFiles, function (doc) {
-								return doc.isPublished;
-							});
-							var f = _.find($scope.moveSelected.moveableFolders, function (fld) {
-								return fld.model.folderObj.isPublished;
-							});
-							self.movingPublishedContent = !!(d || f);
-							console.log("self.movingPublishedContent ",self.movingPublishedContent );
+							var MIXED='mixed', UNPUBLISHED = 'unpub', PUBLISHED = 'pub';
+							determineContentType();
+
+							self.selectPromptText = "Select a destination folder";
+							if (self.contentType == MIXED) {
+								self.selectPromptText += " suitable for some published content";
+							} else if (self.contentType == PUBLISHED) {
+								self.selectPromptText += " suitable for published content";
+							}
 
 
 							self.sortBy = function (column) {
@@ -81,6 +82,34 @@ angular.module('documents')
 								self.applySort();
 							};
 
+							function determineContentType() {
+								var dp = _.find($scope.moveSelected.moveableFiles, function (doc) {
+									return doc.isPublished;
+								});
+								var fp = _.find($scope.moveSelected.moveableFolders, function (fld) {
+									return fld.model.folderObj.isPublished;
+								});
+								var du = _.find($scope.moveSelected.moveableFiles, function (doc) {
+									return !doc.isPublished;
+								});
+								var fu = _.find($scope.moveSelected.moveableFolders, function (fld) {
+									return !fld.model.folderObj.isPublished;
+								});
+								var movingPublishedContent = !!(dp || fp);
+								var movingUnPublishedContent = !!(du || fu);
+
+								self.contentType = UNPUBLISHED;
+								self.selectPromptText = "Select a destination folder";
+								if (movingPublishedContent) {
+									if (movingUnPublishedContent) {
+										self.selectPromptText += " suitable for some published content";
+										self.contentType = MIXED;
+									} else {
+										self.selectPromptText += " suitable for published content";
+										self.contentType = PUBLISHED;
+									}
+								}
+							}
 							self.applySort = function () {
 								// sort ascending first...
 								self.currentFiles = _(self.unsortedFiles).chain().sortBy(function (f) {
@@ -213,7 +242,9 @@ angular.module('documents')
 												return _.extend(f, {
 													selected: (_.find(self.checkedFiles, function (d) {
 														return d._id.toString() === f._id.toString();
-													}) !== undefined), type: 'File', disabled: true
+													}) !== undefined),
+													type: 'File',
+													disabled: true
 												});
 											});
 
@@ -231,11 +262,13 @@ angular.module('documents')
 												if (checkedDir) {
 													isCheckedDir = true;
 												}
-
+console.log("fld", self.contentType == PUBLISHED, !n.isPublished)
 												return _.extend(n, {
 													selected: isCheckedDir,
 													sourceDir: isSourceDir,
-													type: 'Directory'
+													type: 'Directory',
+													disabled: self.contentType == PUBLISHED && !n.isPublished
+
 												});
 											});
 

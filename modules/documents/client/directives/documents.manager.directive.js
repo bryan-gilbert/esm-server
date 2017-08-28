@@ -672,7 +672,6 @@ angular.module('documents')
 					moveableFolders: [],
 					moveableFiles: [],
 					setContext: function() {
-						console.log("break here")
 						self.moveSelected.confirmItems = [];
 						self.moveSelected.titleText = 'Move selected';
 						self.moveSelected.confirmText = 'Are you sure you want to move the following the selected item(s)?';
