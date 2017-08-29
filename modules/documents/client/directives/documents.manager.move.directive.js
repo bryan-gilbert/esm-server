@@ -62,9 +62,9 @@ angular.module('documents')
 							determineContentType();
 
 							self.selectPromptText = "Select a destination folder";
-							if (self.contentType == MIXED) {
+							if (self.contentType === MIXED) {
 								self.selectPromptText += " suitable for some published content";
-							} else if (self.contentType == PUBLISHED) {
+							} else if (self.contentType === PUBLISHED) {
 								self.selectPromptText += " suitable for published content";
 							}
 
@@ -262,12 +262,12 @@ angular.module('documents')
 												if (checkedDir) {
 													isCheckedDir = true;
 												}
-console.log("fld", self.contentType == PUBLISHED, !n.isPublished)
+// console.log("fld", self.contentType === PUBLISHED, !n.isPublished);
 												return _.extend(n, {
 													selected: isCheckedDir,
 													sourceDir: isSourceDir,
 													type: 'Directory',
-													disabled: self.contentType == PUBLISHED && !n.isPublished
+													disabled: self.contentType === PUBLISHED && !n.isPublished
 
 												});
 											});
