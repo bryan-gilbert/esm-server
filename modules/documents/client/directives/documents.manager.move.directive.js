@@ -24,6 +24,7 @@ angular.module('documents')
 
 							self.view = 'select'; // select or mvoe
 							self.busy = false;
+							console.log("Note to other developers. The code on this branch is a WIP.")
 
 							$scope.project = scope.project;
 							$scope.node = scope.node || scope.root;
@@ -262,6 +263,7 @@ angular.module('documents')
 												if (checkedDir) {
 													isCheckedDir = true;
 												}
+
 // console.log("fld", self.contentType === PUBLISHED, !n.isPublished);
 												return _.extend(n, {
 													selected: isCheckedDir,
